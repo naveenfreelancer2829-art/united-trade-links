@@ -1,0 +1,4753 @@
+{
+ "_readme": "United Trade Links machine catalogue. Edit this file to add, change or remove machines. 'imageBase' is the folder the photos live in. 'thumbSuffix' is how the small preview of each photo is named.",
+ "imageBase": "/wp-content/uploads/",
+ "thumbSuffix": "-300x300",
+ "updated": "2026-11-15",
+ "categories": [
+  {
+   "name": "AIR COMPRESSOR",
+   "slug": "air-compressor",
+   "count": 4
+  },
+  {
+   "name": "BAND SAW",
+   "slug": "band-saw",
+   "count": 4
+  },
+  {
+   "name": "BENCH GRINDING",
+   "slug": "bench-grinding",
+   "count": 2
+  },
+  {
+   "name": "CENTERLESS GRINIDNG",
+   "slug": "centerless-grinidng",
+   "count": 2
+  },
+  {
+   "name": "CNC MILLING",
+   "slug": "cnc-milling",
+   "count": 1
+  },
+  {
+   "name": "CUT OFF",
+   "slug": "cut-off",
+   "count": 2
+  },
+  {
+   "name": "CYLINDRICAL GRINDING",
+   "slug": "cylindrical-grinding",
+   "count": 7
+  },
+  {
+   "name": "DECOILER CUM STRAIGHTENER",
+   "slug": "decoiler-cum-straightener",
+   "count": 1
+  },
+  {
+   "name": "DIE PUNCH & SHAPING",
+   "slug": "die-punch-shaping",
+   "count": 1
+  },
+  {
+   "name": "DRILLING",
+   "slug": "drilling",
+   "count": 1
+  },
+  {
+   "name": "DRILLING & TAPPING",
+   "slug": "drilling-tapping",
+   "count": 2
+  },
+  {
+   "name": "FLY PRESS",
+   "slug": "fly-press",
+   "count": 1
+  },
+  {
+   "name": "H TYPE PRESS",
+   "slug": "h-type-press",
+   "count": 2
+  },
+  {
+   "name": "KNUCLE JOINT PRESS",
+   "slug": "knucle-joint-press",
+   "count": 1
+  },
+  {
+   "name": "LATHE",
+   "slug": "lathe",
+   "count": 26
+  },
+  {
+   "name": "MILLING",
+   "slug": "milling",
+   "count": 14
+  },
+  {
+   "name": "PILLER TYPE DRILLING",
+   "slug": "piller-type-drilling",
+   "count": 1
+  },
+  {
+   "name": "POWER HACK SAW",
+   "slug": "power-hack-saw",
+   "count": 1
+  },
+  {
+   "name": "POWER PRESS",
+   "slug": "power-press",
+   "count": 2
+  },
+  {
+   "name": "PRESS",
+   "slug": "press",
+   "count": 3
+  },
+  {
+   "name": "PROFILE PROJECTOR",
+   "slug": "profile-projector",
+   "count": 1
+  },
+  {
+   "name": "PUNCHING AND SHEARING & KNOTCHING",
+   "slug": "punching-and-shearing-knotching",
+   "count": 1
+  },
+  {
+   "name": "RADIAL DRILLING",
+   "slug": "radial-drilling",
+   "count": 6
+  },
+  {
+   "name": "SHEARING",
+   "slug": "shearing",
+   "count": 1
+  },
+  {
+   "name": "SHEET ROLLING",
+   "slug": "sheet-rolling",
+   "count": 2
+  },
+  {
+   "name": "SLOTTING MACHINE",
+   "slug": "slotting-machine",
+   "count": 1
+  },
+  {
+   "name": "SURFACE GRINDING",
+   "slug": "surface-grinding",
+   "count": 6
+  },
+  {
+   "name": "THREAD MILLING",
+   "slug": "thread-milling",
+   "count": 1
+  },
+  {
+   "name": "TOOL & CUTTER",
+   "slug": "tool-cutter",
+   "count": 2
+  },
+  {
+   "name": "VERTICAL HONNING MACHINE",
+   "slug": "vertical-honning-machine",
+   "count": 1
+  },
+  {
+   "name": "VERTICAL MILLING",
+   "slug": "vertical-milling",
+   "count": 5
+  },
+  {
+   "name": "VISUAL GRINDING",
+   "slug": "visual-grinding",
+   "count": 1
+  },
+  {
+   "name": "WOOD CUTTING",
+   "slug": "wood-cutting",
+   "count": 1
+  }
+ ],
+ "machines": [
+  {
+   "name": "DRILLING & TAPPING MACHINE, ZMP-16",
+   "slug": "drilling-tapping-machine-zmp-16",
+   "cats": [
+    {
+     "name": "DRILLING & TAPPING",
+     "slug": "drilling-tapping"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "ZMP-16"
+    ],
+    [
+     "Capacity",
+     "25 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/12/WhatsApp-Image-2025-07-14-at-5.58.44-PM.jpeg",
+    "2025/12/WhatsApp-Image-2025-07-14-at-5.58.44-PM-1.jpeg",
+    "2025/12/WhatsApp-Image-2025-07-14-at-5.58.44-PM-2.jpeg",
+    "2025/12/WhatsApp-Image-2025-07-14-at-5.58.45-PM-1.jpeg",
+    "2025/12/WhatsApp-Image-2025-07-14-at-5.58.45-PM.jpeg",
+    "2025/12/WhatsApp-Image-2025-07-14-at-5.58.46-PM-1.jpeg",
+    "2025/12/WhatsApp-Image-2025-07-14-at-5.58.46-PM.jpeg",
+    "2025/12/WhatsApp-Image-2025-07-14-at-5.58.47-PM.jpeg"
+   ]
+  },
+  {
+   "name": "OKAMOTO SURFACE GRINDING MACHINE FB125 X 250",
+   "slug": "okamoto-surface-grinding-machine-fb125-x-250",
+   "cats": [
+    {
+     "name": "SURFACE GRINDING",
+     "slug": "surface-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "FB125 x 250"
+    ],
+    [
+     "Grinding Area",
+     "250 × 120 mm"
+    ],
+    [
+     "Rotational Speed",
+     "3600 RPM"
+    ],
+    [
+     "Grindstone Size",
+     "180 × 13 × 1.75 mm (OD × Thickness × Hole Dia)"
+    ],
+    [
+     "Machine Type",
+     "Small Machine, Manual"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119125407-scaled.jpg",
+    "2025/11/IMG20251119125407-1-scaled.jpg",
+    "2025/11/IMG20251119125426-scaled.jpg",
+    "2025/11/IMG20251119125427-scaled.jpg",
+    "2025/11/IMG20251119125434-scaled.jpg",
+    "2025/11/IMG20251119125437-scaled.jpg",
+    "2025/11/IMG20251119125447-scaled.jpg",
+    "2025/11/IMG20251119125452-scaled.jpg",
+    "2025/11/IMG20251119125500-scaled.jpg"
+   ]
+  },
+  {
+   "name": "MAKINO VERTICAL MILLING MACHINE KSAP-55",
+   "slug": "makino-vertical-milling-machine-ksap-55",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "KSAP 55"
+    ],
+    [
+     "Table Size",
+     "1100 × 250 mm"
+    ],
+    [
+     "Machine Type",
+     "Vertical"
+    ],
+    [
+     "Features",
+     "With DRO"
+    ],
+    [
+     "Spindle Taper",
+     "ISO-40"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119124500-scaled.jpg",
+    "2025/11/IMG20251119124428-scaled.jpg",
+    "2025/11/IMG20251119124436-scaled.jpg",
+    "2025/11/IMG20251119124445-scaled.jpg",
+    "2025/11/IMG20251119124500-1-scaled.jpg",
+    "2025/11/IMG20251119124520-scaled.jpg",
+    "2025/11/IMG20251119124534-scaled.jpg",
+    "2025/11/IMG20251119124550-scaled.jpg",
+    "2025/11/IMG20251119124601-scaled.jpg"
+   ]
+  },
+  {
+   "name": "MAKINO VERTICAL MILLING MACHINE KSJP-55",
+   "slug": "makino-vertical-milling-machine-ksjp-55",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "KSJP 55"
+    ],
+    [
+     "Table Size",
+     "1100 × 250 mm"
+    ],
+    [
+     "Machine Type",
+     "Vertical"
+    ],
+    [
+     "Features",
+     "With DRO"
+    ],
+    [
+     "Spindle Taper",
+     "ISO-40"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119130943-scaled.jpg",
+    "2025/11/IMG20251119131036-scaled.jpg",
+    "2025/11/IMG20251119131031-scaled.jpg",
+    "2025/11/IMG20251119131016-scaled.jpg",
+    "2025/11/IMG20251119131007-scaled.jpg",
+    "2025/11/IMG20251119131003-scaled.jpg",
+    "2025/11/IMG20251119131000-scaled.jpg",
+    "2025/11/IMG20251119130937-1-scaled.jpg"
+   ]
+  },
+  {
+   "name": "MAKINO VERTICAL MILLING MACHINE KJP",
+   "slug": "makino-vertical-milling-machine-kjp",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "KJP"
+    ],
+    [
+     "Table Size",
+     "1100 × 250 mm"
+    ],
+    [
+     "Machine Type",
+     "Vertical"
+    ],
+    [
+     "Features",
+     "With DRO"
+    ],
+    [
+     "Spindle Taper",
+     "ISO-40"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119130715-scaled.jpg",
+    "2025/11/IMG20251119130656-scaled.jpg",
+    "2025/11/IMG20251119130700-scaled.jpg",
+    "2025/11/IMG20251119130713-scaled.jpg",
+    "2025/11/IMG20251119130715-1-scaled.jpg",
+    "2025/11/IMG20251119130743-scaled.jpg",
+    "2025/11/IMG20251119130758-scaled.jpg",
+    "2025/11/IMG20251119130814-scaled.jpg",
+    "2025/11/IMG20251119130816-scaled.jpg",
+    "2025/11/IMG20251119130818-scaled.jpg"
+   ]
+  },
+  {
+   "name": "KASUGA VERTICAL MILLING MACHINE NV-2",
+   "slug": "kasuga-vertical-milling-machine-nv-2",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "NV-2"
+    ],
+    [
+     "Table Size",
+     "1200 × 320 mm"
+    ],
+    [
+     "Machine Type",
+     "Vertical"
+    ],
+    [
+     "Features",
+     "With DRO"
+    ],
+    [
+     "Spindle Taper",
+     "ISO-40"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119125537-scaled.jpg",
+    "2025/11/IMG20251119125537-1-scaled.jpg",
+    "2025/11/IMG20251119125608-scaled.jpg",
+    "2025/11/IMG20251119125618-scaled.jpg",
+    "2025/11/IMG20251119125639-scaled.jpg",
+    "2025/11/IMG20251119125649-scaled.jpg",
+    "2025/11/IMG20251119125702-scaled.jpg",
+    "2025/11/IMG20251119125707-scaled.jpg",
+    "2025/11/IMG20251119125715-scaled.jpg",
+    "2025/11/IMG20251119125722-scaled.jpg"
+   ]
+  },
+  {
+   "name": "SHIZUOKA VERTICAL & HORIZONTAL MILLING (ROUGHING ) MACHINE SP-CH",
+   "slug": "shizuoka-vertical-horizontal-milling-roughing-machine-sp-ch",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "SP-CH"
+    ],
+    [
+     "Table Size",
+     "1100 × 280 mm"
+    ],
+    [
+     "Machine Type",
+     "Vertical & Horizontal"
+    ],
+    [
+     "Spindle Taper",
+     "ISO-50"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119130846-1-scaled.jpg",
+    "2025/11/IMG20251119130923-scaled.jpg",
+    "2025/11/IMG20251119130919-scaled.jpg",
+    "2025/11/IMG20251119130906-scaled.jpg",
+    "2025/11/IMG20251119130855-scaled.jpg",
+    "2025/11/IMG20251119130845-scaled.jpg",
+    "2025/11/IMG20251119130834-scaled.jpg",
+    "2025/11/IMG20251119130832-scaled.jpg",
+    "2025/11/IMG20251119130846-scaled.jpg"
+   ]
+  },
+  {
+   "name": "SHIZUOKA VERTICAL & HORIZONTAL MILLING (TOOL ROOM) MACHINE VHR-G",
+   "slug": "shizuoka-vertical-horizontal-milling-tool-room-machine-vhr-g",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "VHR-G"
+    ],
+    [
+     "Table Size",
+     "1100 × 280 mm"
+    ],
+    [
+     "Machine Type",
+     "Vertical & Horizontal"
+    ],
+    [
+     "Features",
+     "With DRO, Vertical ISO-40, Horizontal ISO-50"
+    ]
+   ],
+   "imgs": [
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.44.59-AM-1.jpeg",
+    "2025/11/IMG20251119124622-scaled.jpg",
+    "2025/11/IMG20251119124634-scaled.jpg",
+    "2025/11/IMG20251119124647-scaled.jpg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.44.59-AM-1-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.00-AM.jpeg"
+   ]
+  },
+  {
+   "name": "OKUMA LATHE MACHINE LS460 X 800",
+   "slug": "okuma-lathe-machine-ls460-x-800",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "LS460 x 800"
+    ],
+    [
+     "Center Height",
+     "220 mm"
+    ],
+    [
+     "Between Centers",
+     "800 mm"
+    ],
+    [
+     "Bed Width",
+     "390 mm"
+    ],
+    [
+     "Spindle Bore",
+     "50 mm"
+    ],
+    [
+     "Machine Dimensions",
+     "8 ft × 2.5 ft"
+    ],
+    [
+     "Type",
+     "All Geared"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119132204-2-scaled.jpg",
+    "2025/11/IMG20251119132207-1-scaled.jpg",
+    "2025/11/IMG20251119132320-1-scaled.jpg",
+    "2025/11/IMG20251119132256-1-scaled.jpg",
+    "2025/11/IMG20251119132153-1-scaled.jpg",
+    "2025/11/IMG20251119132139-1-scaled.jpg",
+    "2025/11/IMG20251119132301-scaled.jpg",
+    "2025/11/IMG20251119132256-scaled.jpg",
+    "2025/11/IMG20251119132320-scaled.jpg",
+    "2025/11/IMG20251119132224-1-scaled.jpg"
+   ]
+  },
+  {
+   "name": "MORI SEKI LATHE MACHINE MR-1000 G",
+   "slug": "mori-seki-lathe-machine-mr-1000-g",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "MR-1000 G"
+    ],
+    [
+     "Center Height",
+     "250 mm"
+    ],
+    [
+     "Between Centers",
+     "1000 mm"
+    ],
+    [
+     "Bed Width",
+     "420 mm"
+    ],
+    [
+     "Spindle Bore",
+     "50 mm"
+    ],
+    [
+     "Machine Dimension",
+     "8 ft × 2.5 ft"
+    ],
+    [
+     "Type",
+     "All Geared"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119131700-scaled.jpg",
+    "2025/11/IMG20251119131700-1-scaled.jpg",
+    "2025/11/IMG20251119131705-scaled.jpg",
+    "2025/11/IMG20251119131711-scaled.jpg",
+    "2025/11/IMG20251119131718-scaled.jpg",
+    "2025/11/IMG20251119131730-scaled.jpg",
+    "2025/11/IMG20251119131755-scaled.jpg",
+    "2025/11/IMG20251119131802-scaled.jpg",
+    "2025/11/IMG20251119131811-scaled.jpg",
+    "2025/11/IMG20251119131819-scaled.jpg"
+   ]
+  },
+  {
+   "name": "YAMAZAKI LATHE MACHINE MAZAK 2500",
+   "slug": "yamazaki-lathe-machine-mazak-2500",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "Mazak-2500"
+    ],
+    [
+     "Center Height",
+     "220 mm"
+    ],
+    [
+     "Between Centers",
+     "2500 mm"
+    ],
+    [
+     "Bed Width",
+     "370 mm"
+    ],
+    [
+     "Spindle Bore",
+     "80 mm"
+    ],
+    [
+     "Machine Dimension",
+     "14 ft × 2.5 ft"
+    ],
+    [
+     "Type",
+     "All Geared with DRO"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119124017-scaled.jpg",
+    "2025/11/IMG20251119124017-1-scaled.jpg",
+    "2025/11/IMG20251119124020-scaled.jpg",
+    "2025/11/IMG20251119124039-scaled.jpg",
+    "2025/11/IMG20251119124045-scaled.jpg",
+    "2025/11/IMG20251119124057-scaled.jpg",
+    "2025/11/IMG20251119124105-scaled.jpg",
+    "2025/11/IMG20251119124120-scaled.jpg",
+    "2025/11/IMG20251119124131-scaled.jpg",
+    "2025/11/IMG20251119124145-scaled.jpg"
+   ]
+  },
+  {
+   "name": "YAMAZAKI LATHE MACHINE MAZAK MARK II-2000",
+   "slug": "yamazaki-lathe-machine-mazak-mark-ii-2000",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "Mark II-2000"
+    ],
+    [
+     "Center Height",
+     "270 mm"
+    ],
+    [
+     "Between Centers",
+     "2000 mm"
+    ],
+    [
+     "Bed Width",
+     "420 mm"
+    ],
+    [
+     "Spindle Bore",
+     "80 mm"
+    ],
+    [
+     "Machine Dimension",
+     "12 ft × 3 ft"
+    ],
+    [
+     "Type",
+     "All Geared with DRO"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119132515-scaled.jpg",
+    "2025/11/IMG20251119132440-scaled.jpg",
+    "2025/11/IMG20251119132451-scaled.jpg",
+    "2025/11/IMG20251119132515-1-scaled.jpg",
+    "2025/11/IMG20251119132516-scaled.jpg",
+    "2025/11/IMG20251119132529-scaled.jpg",
+    "2025/11/IMG20251119132535-scaled.jpg",
+    "2025/11/IMG20251119132545-scaled.jpg",
+    "2025/11/IMG20251119132615-scaled.jpg",
+    "2025/11/IMG20251119132616-scaled.jpg"
+   ]
+  },
+  {
+   "name": "SEIBU KOKI LATHE MACHINE LHS-2911",
+   "slug": "seibu-koki-lathe-machine-lhs-2911",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "LHS-2911"
+    ],
+    [
+     "Center Height",
+     "380 mm"
+    ],
+    [
+     "Between Centers",
+     "1500 mm"
+    ],
+    [
+     "Bed Width",
+     "550 mm"
+    ],
+    [
+     "Spindle Bore",
+     "75 mm"
+    ],
+    [
+     "4-Jaw Chuck Size",
+     "500 mm"
+    ],
+    [
+     "Machine Dimension",
+     "10 ft × 4.5 ft"
+    ],
+    [
+     "Type",
+     "All Geared with DRO"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119131905-scaled.jpg",
+    "2025/11/IMG20251119131858-scaled.jpg",
+    "2025/11/IMG20251119131905-1-scaled.jpg",
+    "2025/11/IMG20251119131923-scaled.jpg",
+    "2025/11/IMG20251119131933-scaled.jpg",
+    "2025/11/IMG20251119131941-scaled.jpg",
+    "2025/11/IMG20251119132011-scaled.jpg",
+    "2025/11/IMG20251119132012-scaled.jpg",
+    "2025/11/IMG20251119132022-scaled.jpg",
+    "2025/11/IMG20251119132045-scaled.jpg"
+   ]
+  },
+  {
+   "name": "YAMAZAKI LATHE MACHINE MAZAK 860",
+   "slug": "yamazaki-lathe-machine-mazak-860",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Center Height",
+     "220 mm"
+    ],
+    [
+     "Between Centers",
+     "850 mm"
+    ],
+    [
+     "Bed Width",
+     "370 mm"
+    ],
+    [
+     "Spindle Bore",
+     "50 mm"
+    ],
+    [
+     "Machine Dimension",
+     "8 ft × 2 ft"
+    ],
+    [
+     "Type",
+     "All Geared"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119132652-scaled.jpg",
+    "2025/11/IMG20251119132649-scaled.jpg",
+    "2025/11/IMG20251119132652-1-scaled.jpg",
+    "2025/11/IMG20251119132653-scaled.jpg",
+    "2025/11/IMG20251119132708-scaled.jpg",
+    "2025/11/IMG20251119132714-scaled.jpg",
+    "2025/11/IMG20251119132720-scaled.jpg",
+    "2025/11/IMG20251119132727-scaled.jpg",
+    "2025/11/IMG20251119132732-scaled.jpg",
+    "2025/11/IMG20251119132756-scaled.jpg"
+   ]
+  },
+  {
+   "name": "OKAMOTO SURFACE GRINDING MACHINE PSG-64DX",
+   "slug": "okamoto-surface-grinding-machine-psg-64dx",
+   "cats": [
+    {
+     "name": "SURFACE GRINDING",
+     "slug": "surface-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Grinding Area",
+     "600 × 400 mm"
+    ],
+    [
+     "Accessories",
+     "Hydraulic with Electro Magnetic Chuck & Coolant Tank"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119125824-scaled.jpg",
+    "2025/11/IMG20251119125824-1-scaled.jpg",
+    "2025/11/IMG20251119125827-scaled.jpg",
+    "2025/11/IMG20251119125831-scaled.jpg",
+    "2025/11/IMG20251119125838-scaled.jpg",
+    "2025/11/IMG20251119125842-scaled.jpg",
+    "2025/11/IMG20251119125851-scaled.jpg",
+    "2025/11/IMG20251119125914-scaled.jpg",
+    "2025/11/IMG20251119125934-scaled.jpg",
+    "2025/11/IMG20251119125938-scaled.jpg"
+   ]
+  },
+  {
+   "name": "NIKKON PROFILE PROJECTOR MACHINE V-24B",
+   "slug": "nikkon-profile-projector-machine-v-24b",
+   "cats": [
+    {
+     "name": "PROFILE PROJECTOR",
+     "slug": "profile-projector"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Type",
+     "Vertical Optical Axis"
+    ],
+    [
+     "Magnification Accuracy",
+     "±0.05% (contour illumination), ±0.10% (200x)"
+    ],
+    [
+     "Dimensions",
+     "1900(H) × 1180(W) × 1100(D) mm (74.8 × 46.5 × 43.3 in)"
+    ],
+    [
+     "Lens Mount",
+     "3-lens turret mount, Screw type"
+    ],
+    [
+     "Projection Lenses",
+     "5x, 10x, 20x, 50x, 100x, 200x"
+    ],
+    [
+     "Screen",
+     "Diameter 600mm; fine-grain ground glass with etched center crossline; 1-minute reading on built-in vernier; inclined 4° off vertical."
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119124716-scaled.jpg",
+    "2025/11/IMG20251119124716-1-scaled.jpg",
+    "2025/11/IMG20251119124727-scaled.jpg",
+    "2025/11/IMG20251119124756-scaled.jpg",
+    "2025/11/IMG20251119124801-scaled.jpg",
+    "2025/11/IMG20251119124817-scaled.jpg",
+    "2025/11/IMG20251119124833-scaled.jpg",
+    "2025/11/IMG20251119124841-scaled.jpg",
+    "2025/11/IMG20251119124850-scaled.jpg",
+    "2025/11/IMG20251119124901-scaled.jpg"
+   ]
+  },
+  {
+   "name": "WASHINO POWER PRESS PUX35-KRE",
+   "slug": "washino-power-press-pux35-kre",
+   "cats": [
+    {
+     "name": "PRESS",
+     "slug": "press"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "PUX35-KRE"
+    ],
+    [
+     "Capacity",
+     "35 Ton"
+    ],
+    [
+     "No. of Strokes",
+     "100 to 170 spm"
+    ],
+    [
+     "Stroke Length",
+     "50 mm"
+    ],
+    [
+     "Die Height",
+     "220 mm"
+    ],
+    [
+     "Slide Bottom Dimension(L × R × F × B)",
+     "350 × 300 mm"
+    ],
+    [
+     "Bolster Dimension(L × R × F × B)",
+     "700 × 400 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119135117-scaled.jpg",
+    "2025/11/IMG20251119135117-1-scaled.jpg",
+    "2025/11/IMG20251119135130-scaled.jpg",
+    "2025/11/IMG20251119135139-scaled.jpg",
+    "2025/11/WhatsApp-Image-2025-11-20-at-4.05.43-PM.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-20-at-4.05.44-PM.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-20-at-4.05.45-PM.jpeg"
+   ]
+  },
+  {
+   "name": "KOMATSU SHEARING MACHINE SHF4X255",
+   "slug": "komatsu-shearing-machine-shf4x255",
+   "cats": [
+    {
+     "name": "SHEARING",
+     "slug": "shearing"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Cutting Ability",
+     "4.5 mm"
+    ],
+    [
+     "Blade Length",
+     "2550 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119132833-scaled.jpg",
+    "2025/11/IMG20251119132917-scaled.jpg",
+    "2025/11/IMG20251119132836-scaled.jpg",
+    "2025/11/IMG20251119132851-scaled.jpg",
+    "2025/11/IMG20251119132923-scaled.jpg",
+    "2025/11/IMG20251119132816-scaled.jpg",
+    "2025/11/IMG20251119133004-scaled.jpg",
+    "2025/11/IMG20251119132916-scaled.jpg",
+    "2025/11/IMG20251119132939-scaled.jpg"
+   ]
+  },
+  {
+   "name": "TOYODA CYLINDRICAL GRINDING MACHINE GUP32X100 (G32)",
+   "slug": "toyoda-cylindrical-grinding-machine-gup32x100-g32-2",
+   "cats": [
+    {
+     "name": "CYLINDRICAL GRINDING",
+     "slug": "cylindrical-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Machine Type",
+     "OD"
+    ],
+    [
+     "Center Height",
+     "160 mm"
+    ],
+    [
+     "Between Centers",
+     "1000 mm"
+    ],
+    [
+     "Accessories",
+     "Coolant Tank"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119125047-scaled.jpg",
+    "2025/11/IMG20251119124942-scaled.jpg",
+    "2025/11/IMG20251119124955-scaled.jpg",
+    "2025/11/IMG20251119125002-scaled.jpg",
+    "2025/11/IMG20251119125008-scaled.jpg",
+    "2025/11/IMG20251119125047-1-scaled.jpg",
+    "2025/11/IMG20251119125051-scaled.jpg",
+    "2025/11/IMG20251119125100-scaled.jpg",
+    "2025/11/IMG20251119125108-scaled.jpg",
+    "2025/11/IMG20251119125121-scaled.jpg"
+   ]
+  },
+  {
+   "name": "HMT LATHE MACHINE LB 17",
+   "slug": "hmt-lathe-machine-lb-17",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Machine Type",
+     "All Geared"
+    ],
+    [
+     "Center Height",
+     "170 mm"
+    ],
+    [
+     "Between Centers",
+     "750 mm"
+    ],
+    [
+     "Bed Width",
+     "310 mm"
+    ],
+    [
+     "Spindle Bore",
+     "2″"
+    ],
+    [
+     "Machine Dimensions",
+     "7 ft × 2.5 ft"
+    ]
+   ],
+   "imgs": [
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.05-AM-1-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.07-AM.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.07-AM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.06-AM.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.06-AM-2.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.05-AM-1-2.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.04-AM-2.jpeg"
+   ]
+  },
+  {
+   "name": "HOL BROOK LATHE MACHINE B21",
+   "slug": "hol-brook-lathe-machine-b21",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "B21"
+    ],
+    [
+     "Machine Type",
+     "Heavy Duty (All Geared)"
+    ],
+    [
+     "Center Height",
+     "275 mm"
+    ],
+    [
+     "Between Centers",
+     "1500 mm"
+    ],
+    [
+     "Bed Width",
+     "500 mm"
+    ],
+    [
+     "Spindle Bore",
+     "2\""
+    ],
+    [
+     "Machine Dimensions",
+     "10 ft × 4 ft"
+    ]
+   ],
+   "imgs": [
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.05-AM.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.05-AM-2.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.05-AM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.06-AM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-18-at-11.45.08-AM.jpeg"
+   ]
+  },
+  {
+   "name": "CENTERLESS GRINIDNG MACHINE NTC",
+   "slug": "centerless-grinidng-machine-ntc",
+   "cats": [
+    {
+     "name": "CENTERLESS GRINIDNG",
+     "slug": "centerless-grinidng"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Wheel Diameter",
+     "600 mm"
+    ],
+    [
+     "Wheel Thickness (Width)",
+     "200 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.54-PM.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.51-PM.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.52-PM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.53-PM-2.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.54-PM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.55-PM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.55-PM-2.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.55-PM.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.56-PM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-25-at-4.01.56-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "CENTERLESS GRINIDNG MACHINE, NEPPEI",
+   "slug": "centerless-grinidng-machine-neppei",
+   "cats": [
+    {
+     "name": "CENTERLESS GRINIDNG",
+     "slug": "centerless-grinidng"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Wheel Diameter",
+     "600 mm"
+    ],
+    [
+     "Wheel Thickness (Width)",
+     "200 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.29-PM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.23-PM.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.24-PM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.25-PM.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.26-PM-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.26-PM-2.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.27-PM.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.30-PM.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.29-PM-1-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-10-24-at-5.37.28-PM.jpeg"
+   ]
+  },
+  {
+   "name": "TOYODA CYLINDRICAL GRINDING MACHINE GUP32X100 (G32)",
+   "slug": "toyoda-cylindrical-grinding-machine-gup32x100-g32",
+   "cats": [
+    {
+     "name": "CYLINDRICAL GRINDING",
+     "slug": "cylindrical-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "GUP32x100 (G32)"
+    ],
+    [
+     "Machine Type",
+     "ID & OD"
+    ],
+    [
+     "Center Height",
+     "160 mm"
+    ],
+    [
+     "Between Centers",
+     "1000 mm"
+    ],
+    [
+     "Accessories",
+     "With DRO & Coolant Tank"
+    ]
+   ],
+   "imgs": [
+    "2025/11/IMG20251119125218-scaled.jpg",
+    "2025/11/IMG20251119125218-1-scaled.jpg",
+    "2025/11/IMG20251119125223-scaled.jpg",
+    "2025/11/IMG20251119125228-scaled.jpg",
+    "2025/11/IMG20251119125230-scaled.jpg",
+    "2025/11/IMG20251119125239-scaled.jpg",
+    "2025/11/IMG20251119125257-scaled.jpg",
+    "2025/11/IMG20251119125327-scaled.jpg",
+    "2025/11/IMG20251119125341-scaled.jpg"
+   ]
+  },
+  {
+   "name": "OKOMOTO SURFACE GRINDING PFG-500",
+   "slug": "okomoto-surface-grinding-pfg-500",
+   "cats": [
+    {
+     "name": "SURFACE GRINDING",
+     "slug": "surface-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Manufacturer",
+     "Okomoto, Japan"
+    ],
+    [
+     "Model",
+     "PFG – 500"
+    ],
+    [
+     "Grinding Area",
+     "380 x 110 mm"
+    ],
+    [
+     "Type",
+     "Hydraulic with Electro Magnetic Chuck"
+    ],
+    [
+     "Features",
+     "DRO & Coolant Tank"
+    ]
+   ],
+   "imgs": [
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.33-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.35.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.35-2.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.33-1-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.35-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.34.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.34-2.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.34-1.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.33.jpeg",
+    "2025/11/WhatsApp-Image-2025-11-17-at-16.51.33-2.jpeg"
+   ]
+  },
+  {
+   "name": "OKUMA TOYOWA MACHINERY, JAPAN STM2R MILLING",
+   "slug": "okuma-toyowa-machinery-japan-1985-stm2r-milling",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Table Size",
+     "1350×310 mm"
+    ],
+    [
+     "Spindle Taper",
+     "NT40"
+    ],
+    [
+     "Travels (X/Y/Z)",
+     "710/300/410 mm"
+    ],
+    [
+     "Spindle Speed",
+     "85-3000 rpm"
+    ],
+    [
+     "Features",
+     "3-axis DRO, digital scale on quill"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.09-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.09-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.09-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.05-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.04-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.04-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.04-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.04-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.03-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.12.03-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "AMADA BANDSAW MACHINE HA250 BAND SAW",
+   "slug": "amada-bandsaw-machine-ha250-band-saw",
+   "cats": [
+    {
+     "name": "BAND SAW",
+     "slug": "band-saw"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Max Cutting Diameter",
+     "250 mm (10 inches)"
+    ],
+    [
+     "Max Cutting Rectangle",
+     "254×304.8 mm (10×12 inches)"
+    ],
+    [
+     "Max Cutting Square",
+     "254 mm (10 inches)"
+    ],
+    [
+     "Length",
+     "3500 mm (138 inches)"
+    ],
+    [
+     "Blade Width",
+     "25 mm (1 inch)"
+    ],
+    [
+     "Blade Thickness",
+     "1.066 mm (0.042 inches)"
+    ],
+    [
+     "Blade Speed",
+     "26.8-79.8 m/min"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.08.39-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.08.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.08.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.08.39-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.08.38-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.08.38-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.08.38-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.08.37-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.08.37-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "HMT, BANGALORE K130U CYLINDRICAL GRINDING",
+   "slug": "hmt-bangalore-k130u-cylindrical-grinding",
+   "cats": [
+    {
+     "name": "CYLINDRICAL GRINDING",
+     "slug": "cylindrical-grinding"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Type",
+     "Universal Cylindrical Grinder"
+    ],
+    [
+     "Model",
+     "K130U"
+    ],
+    [
+     "Max Job Diameter",
+     "250mm"
+    ],
+    [
+     "Max Job Length",
+     "300mm"
+    ],
+    [
+     "Height of Centers",
+     "130mm"
+    ],
+    [
+     "Distance Between Centers",
+     "300mm"
+    ],
+    [
+     "Work Head Swivel Range",
+     "30 degrees"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.23-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.20-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.23-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.23-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.22-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.22-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.22-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.21-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.21-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.25.21-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "BATLIBOI & CO LTD. VF-2 VERTICAL MILLING",
+   "slug": "batliboi-co-ltd-vf-2-vertical-milling",
+   "cats": [
+    {
+     "name": "VERTICAL MILLING",
+     "slug": "vertical-milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "VF-2"
+    ],
+    [
+     "Size",
+     "No. 02"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.37.39-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.37.40-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.37.39-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.37.39-AM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.37.38-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.37.38-AM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.37.38-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.37.37-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.37.37-AM-1.jpeg"
+   ]
+  },
+  {
+   "name": "HMT, BANGALORE RM 63 RADIAL DRILLING",
+   "slug": "hmt-bangalore-rm-63-radial-drilling",
+   "cats": [
+    {
+     "name": "RADIAL DRILLING",
+     "slug": "radial-drilling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "RM 63"
+    ],
+    [
+     "Drilling Capacity",
+     "50-60 mm in solid material, up to 80-85 mm with reduced speed and feed"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.08-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.10-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.05-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.05-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.06-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.06-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.07-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.08-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.09-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.27.09-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "KIRLOSKAR Enterprises 1330 LATHE",
+   "slug": "kirloskar-enterprises-1330-lathe-6",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Centre Height",
+     "175mm"
+    ],
+    [
+     "Swing Over Bed",
+     "350mm"
+    ],
+    [
+     "Spindle Diameter",
+     "41mm"
+    ],
+    [
+     "Spindle Taper",
+     "MT 3/5"
+    ],
+    [
+     "Main Motor",
+     "3HP"
+    ],
+    [
+     "Spindle Speed Range",
+     "54-1200RPM (8 Nos)"
+    ],
+    [
+     "Cross Slide Travel",
+     "210mm"
+    ],
+    [
+     "Compound Slide Travel",
+     "100mm"
+    ],
+    [
+     "Lead Screw Pitch",
+     "6mm / 4T.I"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.54-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.57-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.53-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.54-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.54-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.55-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.55-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.55-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.56-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.58.56-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "KIRLOSKAR Enterprises 1330 LATHE",
+   "slug": "kirloskar-enterprises-1330-lathe-5",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Centre Height",
+     "175mm"
+    ],
+    [
+     "Swing Over Bed",
+     "350mm"
+    ],
+    [
+     "Spindle Diameter",
+     "41mm"
+    ],
+    [
+     "Spindle Taper",
+     "MT 3/5"
+    ],
+    [
+     "Main Motor",
+     "3HP"
+    ],
+    [
+     "Spindle Speed Range",
+     "54-1200RPM (8 Nos)"
+    ],
+    [
+     "Cross Slide Travel",
+     "210mm"
+    ],
+    [
+     "Compound Slide Travel",
+     "100mm"
+    ],
+    [
+     "Lead Screw Pitch",
+     "6mm / 4T.I"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.52-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.51-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.51-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.51-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.52-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.54-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.54-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.55-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.55-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.38.55-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "KIRLOSKAR Enterprises 1330 LATHE",
+   "slug": "kirloskar-enterprises-1330-lathe-4",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Centre Height",
+     "175mm"
+    ],
+    [
+     "Swing Over Bed",
+     "350mm"
+    ],
+    [
+     "Spindle Diameter",
+     "41mm"
+    ],
+    [
+     "Spindle Taper",
+     "MT 3/5"
+    ],
+    [
+     "Main Motor",
+     "3HP"
+    ],
+    [
+     "Spindle Speed Range",
+     "54-1200RPM (8 Nos)"
+    ],
+    [
+     "Cross Slide Travel",
+     "210mm"
+    ],
+    [
+     "Compound Slide Travel",
+     "100mm"
+    ],
+    [
+     "Lead Screw Pitch",
+     "6mm / 4T.I"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.44-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.41-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.41-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.41-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.42-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.43-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.43-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.43-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.28.43-PM-3.jpeg"
+   ]
+  },
+  {
+   "name": "KIRLOSKAR Enterprises 1330 LATHE",
+   "slug": "kirloskar-enterprises-1330-lathe-3",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Centre Height",
+     "175mm"
+    ],
+    [
+     "Swing Over Bed",
+     "350mm"
+    ],
+    [
+     "Spindle Diameter",
+     "41mm"
+    ],
+    [
+     "Spindle Taper",
+     "MT 3/5"
+    ],
+    [
+     "Main Motor",
+     "3HP"
+    ],
+    [
+     "Spindle Speed Range",
+     "54-1200RPM (8 Nos)"
+    ],
+    [
+     "Cross Slide Travel",
+     "210mm"
+    ],
+    [
+     "Compound Slide Travel",
+     "100mm"
+    ],
+    [
+     "Lead Screw Pitch",
+     "6mm / 4T.I"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.57.12-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.57.12-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.57.11-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.57.11-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.57.11-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.57.11-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.57.10-PM.jpeg"
+   ]
+  },
+  {
+   "name": "KIRLOSKAR Enterprises 1330 LATHE",
+   "slug": "kirloskar-enterprises-1330-lathe-2",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Centre Height",
+     "175mm"
+    ],
+    [
+     "Swing Over Bed",
+     "350mm"
+    ],
+    [
+     "Spindle Diameter",
+     "41mm"
+    ],
+    [
+     "Spindle Taper",
+     "MT 3/5"
+    ],
+    [
+     "Main Motor",
+     "3HP"
+    ],
+    [
+     "Spindle Speed Range",
+     "54-1200RPM (8 Nos)"
+    ],
+    [
+     "Cross Slide Travel",
+     "210mm"
+    ],
+    [
+     "Compound Slide Travel",
+     "100mm"
+    ],
+    [
+     "Lead Screw Pitch",
+     "6mm / 4T.I"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.49.44-PM-2-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.49.44-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.49.44-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.49.43-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.49.43-PM-1-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.49.42-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.49.42-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.49.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.49.41-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "KIRLOSKAR Enterprises 1330 LATHE",
+   "slug": "kirloskar-enterprises-1330-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Centre Height",
+     "175mm"
+    ],
+    [
+     "Swing Over Bed",
+     "350mm"
+    ],
+    [
+     "Spindle Diameter",
+     "41mm"
+    ],
+    [
+     "Spindle Taper",
+     "MT 3/5"
+    ],
+    [
+     "Main Motor",
+     "3HP"
+    ],
+    [
+     "Spindle Speed Range",
+     "54-1200RPM (8 Nos)"
+    ],
+    [
+     "Cross Slide Travel",
+     "210mm"
+    ],
+    [
+     "Compound Slide Travel",
+     "100mm"
+    ],
+    [
+     "Lead Screw Pitch",
+     "6mm / 4T.I"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.47.33-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.48.43-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.48.43-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.47.33-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.47.32-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.47.32-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.47.31-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.47.31-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.47.30-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.47.30-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "WASINO MACHINE CO LTD, NAGOYA-JAPAN LR55A LATHE",
+   "slug": "wasino-machine-co-ltd-nagoya-japan-1984-lr55a-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Turning Capacity",
+     "œÜ360×550"
+    ],
+    [
+     "Bed Length",
+     "0.5 meters"
+    ],
+    [
+     "Design",
+     "Compact, low center of gravity, 4 sqm space"
+    ],
+    [
+     "Height",
+     "Approx. 1.7 meters"
+    ],
+    [
+     "Automation",
+     "Optional rotary stocker with built-in robot"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.21-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.21-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.20-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.20-AM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.20-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.19-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.19-AM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.19-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.17-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.58.16-AM.jpeg"
+   ]
+  },
+  {
+   "name": "HJK, POLAND NO.25 PUNCHING AND SHEARING & KNOTCHING",
+   "slug": "hjk-poland-1960-no-25-punching-and-shearing-knotching",
+   "cats": [
+    {
+     "name": "PUNCHING AND SHEARING & KNOTCHING",
+     "slug": "punching-and-shearing-knotching"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "NO.25"
+    ],
+    [
+     "Type",
+     "Hydraulic Ironworker"
+    ],
+    [
+     "Applications",
+     "Punching holes, shearing metal shapes, cutting notches"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.25-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.15-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.15-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.16-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.16-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.16-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.21-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.21-PM-1-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.21-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-3.16.22-PM.jpeg"
+   ]
+  },
+  {
+   "name": "CHUBU KOKI, JAPAN LF-I200 LATHE",
+   "slug": "chubu-koki-japan-lf-i200-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Swing Over Bed",
+     "1200mm"
+    ],
+    [
+     "Swing Over Gap",
+     "2000mm"
+    ],
+    [
+     "Chuck Diameter",
+     "1200mm (4-jaw)"
+    ],
+    [
+     "Speeds",
+     "3.5-350 rpm"
+    ],
+    [
+     "Length",
+     "1700mm"
+    ],
+    [
+     "Features",
+     "Digital Readout (DRO)"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.41-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.40-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.40-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.39-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.39-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.38-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.57.38-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "LAXSONS LK2 BAND SAW",
+   "slug": "laxsons-1989-lk2-band-saw",
+   "cats": [
+    {
+     "name": "BAND SAW",
+     "slug": "band-saw"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Power Consumption",
+     "440V AC, 50Hz"
+    ],
+    [
+     "Blade Diameter",
+     "3760x27x0.9 mm"
+    ],
+    [
+     "Cutting Capacity Square",
+     "275×275 mm"
+    ],
+    [
+     "Voltage",
+     "440V AC, 50Hz"
+    ],
+    [
+     "Weight",
+     "760 Kg"
+    ],
+    [
+     "Country of Origin",
+     "Made in India"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.10.31-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.10.29-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.10.30-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.10.30-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.10.30-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.10.30-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.10.31-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.10.31-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.10.31-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.11.30-PM.jpeg"
+   ]
+  },
+  {
+   "name": "HYDRAULIC ACTUATORS PVT LTD H TYPE PRESS",
+   "slug": "hydraulic-actuators-pvt-ltd-na-h-type-press",
+   "cats": [
+    {
+     "name": "H TYPE PRESS",
+     "slug": "h-type-press"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Capacity",
+     "1 Ton"
+    ],
+    [
+     "Type",
+     "Hydraulic"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.37.38-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.37.56-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.37.56-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.37.55-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.37.51-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.37.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.37.37-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.37.37-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "KAWAI – LATHE, MODEL: KL330D LATHE",
+   "slug": "kawai-lathe-model-kl330d-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "KL330D"
+    ],
+    [
+     "Between Center",
+     "500 mm"
+    ],
+    [
+     "Center Height",
+     "175 mm"
+    ],
+    [
+     "Spindle Bore",
+     "38 mm"
+    ],
+    [
+     "Bed Width",
+     "300 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG20250920144514-scaled.jpg",
+    "2025/10/IMG20250920144522-scaled.jpg",
+    "2025/10/IMG20250920135655-scaled.jpg",
+    "2025/10/IMG20250920135645-scaled.jpg",
+    "2025/10/IMG20250920135641-scaled.jpg"
+   ]
+  },
+  {
+   "name": "YAMAZAKI – LATHE, MODEL: MK-860S LATHE",
+   "slug": "yamazaki-lathe-model-mk-860s-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "MK-860S"
+    ],
+    [
+     "Between Center",
+     "1000 mm"
+    ],
+    [
+     "Center Height",
+     "225 mm"
+    ],
+    [
+     "Spindle Bore",
+     "75 mm"
+    ],
+    [
+     "Swing Over Bed",
+     "250 mm"
+    ],
+    [
+     "Bed Width",
+     "350 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG20250920133106-scaled.jpg",
+    "2025/10/IMG20250920133121-scaled.jpg",
+    "2025/10/IMG20250920133126-scaled.jpg",
+    "2025/10/IMG20250920133313-scaled.jpg",
+    "2025/10/IMG20250920133320-scaled.jpg",
+    "2025/10/IMG20250920133415-scaled.jpg",
+    "2025/10/IMG20250920133412-scaled.jpg",
+    "2025/10/IMG20250920133409-scaled.jpg",
+    "2025/10/IMG20250920133406-scaled.jpg",
+    "2025/10/IMG20250920133403-scaled.jpg"
+   ]
+  },
+  {
+   "name": "HITACHI – MILLING MACHINE, MODEL:4M MILLING",
+   "slug": "hitachi-milling-machine-model4m-milling",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "4M"
+    ],
+    [
+     "Table Size",
+     "1800×350 mm"
+    ],
+    [
+     "Longitudinal Travel",
+     "1050 mm"
+    ],
+    [
+     "Cross Travel",
+     "355 mm"
+    ],
+    [
+     "Vertical Travel",
+     "500 mm"
+    ],
+    [
+     "Taper",
+     "ISO 50"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.55.36-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.55.38-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.55.36-PM-1-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.55.35-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.55.06-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.55.04-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.54-PM-4.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.54-PM-2-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.54-PM-1-2.jpeg"
+   ]
+  },
+  {
+   "name": "AMADA(Bridgeport)- MILLING MACHINE, MODEL:12BR2J-42 MILLING",
+   "slug": "amadabridgeport-milling-machine-model12br2j-42-milling",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "12BR2J-42"
+    ],
+    [
+     "Table Size",
+     "9×42 inches"
+    ],
+    [
+     "Table Travel (X-Axis)",
+     "30 inches"
+    ],
+    [
+     "Saddle Travel (Y-Axis)",
+     "12 inches"
+    ],
+    [
+     "Knee Travel (Z-Axis)",
+     "16 inches"
+    ],
+    [
+     "Quill Travel",
+     "5 inches"
+    ],
+    [
+     "Spindle Taper",
+     "R-8"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG20250920132557-scaled.jpg",
+    "2025/10/IMG20250920132603-scaled.jpg",
+    "2025/10/IMG20250920132542-scaled.jpg",
+    "2025/10/IMG20250920132528-scaled.jpg",
+    "2025/10/IMG20250920132515-scaled.jpg",
+    "2025/10/IMG20250920132510-scaled.jpg",
+    "2025/10/IMG20250920132452-scaled.jpg",
+    "2025/10/IMG20250920132450-scaled.jpg",
+    "2025/10/IMG20250920132400-scaled.jpg"
+   ]
+  },
+  {
+   "name": "OKK – MILLING MACHINE, MODEL: MH-2V MILLING",
+   "slug": "okk-milling-machine-model-mh-2v-milling",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "MH-2V"
+    ],
+    [
+     "Axes",
+     "3-axis (X, Y, Z) with Digital DRO"
+    ],
+    [
+     "Table Size",
+     "1300×300 mm"
+    ],
+    [
+     "Longitudinal Travel (X-axis)",
+     "720 mm"
+    ],
+    [
+     "Cross Travel (Y-axis)",
+     "240 mm"
+    ],
+    [
+     "Vertical Travel (Z-axis)",
+     "450 mm"
+    ],
+    [
+     "Taper",
+     "ISO 50"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.50-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.51-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.50-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.51-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.52-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.53-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.54.53-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.55.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-2.55.44-PM.jpeg"
+   ]
+  },
+  {
+   "name": "OKK – MILLING MACHINE, MODEL: MH-4V MILLING",
+   "slug": "okk-milling-machine-model-mh-4v-milling",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "MH-4V"
+    ],
+    [
+     "Axes",
+     "3-axis (X, Y, Z) with Digital DRO"
+    ],
+    [
+     "Table Size",
+     "2000×450 mm"
+    ],
+    [
+     "Longitudinal Travel (X-axis)",
+     "1100 mm"
+    ],
+    [
+     "Cross Travel (Y-axis)",
+     "420 mm"
+    ],
+    [
+     "Vertical Travel (Z-axis)",
+     "500 mm"
+    ],
+    [
+     "Taper",
+     "ISO 50"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-09-24-at-3.41.08-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-3.41.09-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-3.41.08-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-3.41.07-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-3.41.06-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-24-at-3.41.05-PM.jpeg",
+    "2025/10/IMG20250920144135-scaled.jpg",
+    "2025/10/IMG20250920144130-scaled.jpg"
+   ]
+  },
+  {
+   "name": "AIDA – 60T PRESS, MADE IN JAPAN NC1-6(2)-B PRESS",
+   "slug": "aida-60t-press-made-in-japan-modelnc1-62-b-press",
+   "cats": [
+    {
+     "name": "PRESS",
+     "slug": "press"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "NC1-6(2)-B"
+    ],
+    [
+     "Capacity",
+     "60 Ton"
+    ],
+    [
+     "No. of Strokes",
+     "70 spm"
+    ],
+    [
+     "Stroke Length",
+     "140 mm"
+    ],
+    [
+     "Die Height",
+     "300 mm"
+    ],
+    [
+     "Slide Adjustment Length",
+     "70 mm"
+    ],
+    [
+     "Slide Area (LxW)",
+     "480×400 mm"
+    ],
+    [
+     "Bolster Area (LxW)",
+     "870×520 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG20250920143612-scaled.jpg",
+    "2025/10/IMG20250920143626-scaled.jpg",
+    "2025/10/IMG20250920143601-scaled.jpg",
+    "2025/10/IMG20250920143546-scaled.jpg",
+    "2025/10/IMG20250920143535-scaled.jpg",
+    "2025/10/IMG20250920143522-scaled.jpg",
+    "2025/10/IMG20250920143509-scaled.jpg",
+    "2025/10/IMG20250920143458-scaled.jpg"
+   ]
+  },
+  {
+   "name": "AMADA – 45T PRESS, MADE IN JAPAN MODEL:TP-45C-X2 PRESS",
+   "slug": "amada-45t-press-made-in-japan-modeltp-45c-x2-press",
+   "cats": [
+    {
+     "name": "PRESS",
+     "slug": "press"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "TP-45C-X2"
+    ],
+    [
+     "Capacity",
+     "45 Ton"
+    ],
+    [
+     "No. of Strokes",
+     "75 spm"
+    ],
+    [
+     "Stroke Length",
+     "140 mm"
+    ],
+    [
+     "Die Height",
+     "290 mm"
+    ],
+    [
+     "Slide Bottom Dimension (LxW)",
+     "400×350 mm"
+    ],
+    [
+     "Bolster Dimension (LxW)",
+     "800×450 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG20250920143428-scaled.jpg",
+    "2025/10/IMG20250920143432-scaled.jpg",
+    "2025/10/IMG20250920143426-scaled.jpg",
+    "2025/10/IMG20250920143352-scaled.jpg",
+    "2025/10/IMG20250920143326-scaled.jpg",
+    "2025/10/IMG20250920143324-scaled.jpg",
+    "2025/10/IMG20250920143315-scaled.jpg",
+    "2025/10/IMG20250920143305-scaled.jpg"
+   ]
+  },
+  {
+   "name": "SHIZUOKA, MADE IN JAPAN VHR-A VERTICAL MILLING",
+   "slug": "shizuoka-made-in-japan-vhr-a-vertical-milling",
+   "cats": [
+    {
+     "name": "VERTICAL MILLING",
+     "slug": "vertical-milling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "VHR-A"
+    ],
+    [
+     "Table Length",
+     "1100 mm"
+    ],
+    [
+     "Table Width",
+     "250 mm"
+    ],
+    [
+     "Features",
+     "With DRO"
+    ],
+    [
+     "Taper",
+     "ISO-50"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.25-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-12.29.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.26-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.26-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.25-AM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.25-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.24-AM.jpeg"
+   ]
+  },
+  {
+   "name": "SHIZUOKA, MADE IN JAPAN SV-CH VERTICAL MILLING",
+   "slug": "shizuoka-made-in-japan-sv-ch-vertical-milling",
+   "cats": [
+    {
+     "name": "VERTICAL MILLING",
+     "slug": "vertical-milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "SV-CH"
+    ],
+    [
+     "Table Length",
+     "1100 mm"
+    ],
+    [
+     "Table Width",
+     "250 mm"
+    ],
+    [
+     "Features",
+     "With DRO"
+    ],
+    [
+     "Taper",
+     "ISO-40"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.22-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-12.29.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.23-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.22-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.37.21-AM.jpeg"
+   ]
+  },
+  {
+   "name": "FUJI, MADE IN JAPAN 30-1FLH-15 LATHE",
+   "slug": "fuji-made-in-japan-30-1flh-15-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Between Center",
+     "1500 mm"
+    ],
+    [
+     "Center Height",
+     "450 mm"
+    ],
+    [
+     "Swing",
+     "900 mm"
+    ],
+    [
+     "Spindle Bore",
+     "55 mm"
+    ],
+    [
+     "Bed Width",
+     "600 mm"
+    ],
+    [
+     "Chuck Size",
+     "1000 mm"
+    ],
+    [
+     "Center Height",
+     "18 inches"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG20250920144831-scaled.jpg",
+    "2025/10/IMG20250920144918-scaled.jpg",
+    "2025/10/IMG20250920144917-scaled.jpg",
+    "2025/10/IMG20250920144908-scaled.jpg",
+    "2025/10/IMG20250920144859-scaled.jpg",
+    "2025/10/IMG20250920144845-scaled.jpg",
+    "2025/10/IMG20250920144843-scaled.jpg",
+    "2025/10/IMG20250920144832-scaled.jpg"
+   ]
+  },
+  {
+   "name": "MADE IN JAPAN TRD-600C RADIAL DRILLING",
+   "slug": "made-in-japan-trd-600c-radial-drilling",
+   "cats": [
+    {
+     "name": "RADIAL DRILLING",
+     "slug": "radial-drilling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "TRD-600C"
+    ],
+    [
+     "Drilling Capacity",
+     "25 mm"
+    ],
+    [
+     "Features",
+     "With Table & Wise"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-09-13-at-7.33.02-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-13-at-7.33.02-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-13-at-7.33.01-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-13-at-7.33.01-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-13-at-7.33.00-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-13-at-7.33.00-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-13-at-7.33.00-PM-1.jpeg",
+    "2025/10/IMG20250920132929-scaled.jpg",
+    "2025/10/IMG20250920132924-scaled.jpg",
+    "2025/10/IMG20250920132859-scaled.jpg"
+   ]
+  },
+  {
+   "name": "MORI SEKI, MADE IN JAPAN MR-1500 LATHE",
+   "slug": "mori-seki-made-in-japan-mr-1500-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Between Center",
+     "1500 mm"
+    ],
+    [
+     "Center Height",
+     "250 mm"
+    ],
+    [
+     "Swing",
+     "500 mm"
+    ],
+    [
+     "Spindle Bore",
+     "50 mm"
+    ],
+    [
+     "Bed Width",
+     "420 mm"
+    ],
+    [
+     "Features",
+     "DRO 2 Axis"
+    ],
+    [
+     "Center Height",
+     "10 inches"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG20250920144932-scaled.jpg",
+    "2025/10/IMG20250920144931-scaled.jpg",
+    "2025/10/IMG20250920144813-scaled.jpg",
+    "2025/10/IMG20250920144812-scaled.jpg",
+    "2025/10/IMG20250920144744-scaled.jpg",
+    "2025/10/IMG20250920144736-scaled.jpg",
+    "2025/10/IMG20250920144729-scaled.jpg",
+    "2025/10/IMG20250920144713-scaled.jpg",
+    "2025/10/IMG20250920144711-scaled.jpg",
+    "2025/10/IMG20250920144710-scaled.jpg"
+   ]
+  },
+  {
+   "name": "MAKINO, MADE IN JAPAN KSJP VERTICAL MILLING",
+   "slug": "makino-made-in-japan-ksjp-vertical-milling",
+   "cats": [
+    {
+     "name": "VERTICAL MILLING",
+     "slug": "vertical-milling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "KSJP"
+    ],
+    [
+     "Bed Width",
+     "250 mm"
+    ],
+    [
+     "Bed Length",
+     "1100 mm"
+    ],
+    [
+     "Taper",
+     "ISO-40"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.20.36-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.20.35-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.20.35-AM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-12-at-10.20.35-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-09-09-at-19.46.59_f1e1045a.jpg",
+    "2025/10/WhatsApp-Image-2025-09-09-at-19.46.59_e2d153c1.jpg",
+    "2025/10/WhatsApp-Image-2025-09-09-at-19.46.59_63a39568.jpg"
+   ]
+  },
+  {
+   "name": "PSG-OKAMOTO, MADE IN JAPAN PSG 63-EN SURFACE GRINDING",
+   "slug": "psg-okamoto-made-in-japan-psg-63-en-surface-grinding",
+   "cats": [
+    {
+     "name": "SURFACE GRINDING",
+     "slug": "surface-grinding"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Magnet Size",
+     "300×600 mm"
+    ],
+    [
+     "Wheel Diameter",
+     "300 mm"
+    ],
+    [
+     "Wheel Thickness",
+     "32 mm"
+    ],
+    [
+     "Features",
+     "Power Pack, Dust Collector, Coolant Tank"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG-20250910-WA0086.jpg",
+    "2025/10/IMG-20250910-WA0087.jpg",
+    "2025/10/IMG-20250910-WA0078.jpg",
+    "2025/10/IMG-20250910-WA0077.jpg",
+    "2025/10/IMG-20250910-WA0076.jpg",
+    "2025/10/IMG-20250910-WA0075.jpg"
+   ]
+  },
+  {
+   "name": "NICCO, MADE IN JAPAN NSG-6HD SURFACE GRINDING",
+   "slug": "nicco-made-in-japan-nsg-6hd-surface-grinding",
+   "cats": [
+    {
+     "name": "SURFACE GRINDING",
+     "slug": "surface-grinding"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Magnet Size",
+     "300×600 mm"
+    ],
+    [
+     "Wheel Diameter",
+     "300 mm"
+    ],
+    [
+     "Wheel Thickness",
+     "32 mm"
+    ],
+    [
+     "Features",
+     "Power Pack, Dust Collector, Coolant Tank"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG-20250910-WA0079.jpg",
+    "2025/10/IMG-20250910-WA0083.jpg",
+    "2025/10/IMG-20250910-WA0081.jpg",
+    "2025/10/IMG-20250910-WA0080.jpg"
+   ]
+  },
+  {
+   "name": "TUDA, MADE IN JAPAN APCO 600X1500 LATHE",
+   "slug": "tuda-made-in-japan-apco-600x1500-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Between Center",
+     "1500 mm"
+    ],
+    [
+     "Center Height",
+     "325 mm"
+    ],
+    [
+     "Swing",
+     "650 mm"
+    ],
+    [
+     "Spindle Bore",
+     "60 mm"
+    ],
+    [
+     "Bed Width",
+     "440 mm"
+    ],
+    [
+     "Chuck Size",
+     "600 mm"
+    ],
+    [
+     "Center Height",
+     "13 inches"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG-20250910-WA0111.jpg",
+    "2025/10/IMG-20250910-WA0110.jpg",
+    "2025/10/IMG-20250910-WA0109.jpg",
+    "2025/10/IMG-20250910-WA0108.jpg",
+    "2025/10/IMG-20250910-WA0106.jpg"
+   ]
+  },
+  {
+   "name": "KASUGA, MADE IN JAPAN NV2 VERTICAL MILLING",
+   "slug": "kasuga-made-in-japan-nv2-vertical-milling",
+   "cats": [
+    {
+     "name": "VERTICAL MILLING",
+     "slug": "vertical-milling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Model",
+     "Kasuga NV2"
+    ],
+    [
+     "Type",
+     "Vertical Turret Milling Machine"
+    ],
+    [
+     "Work Surface",
+     "1200×320 mm"
+    ],
+    [
+     "Table Travel (X/Y/Z)",
+     "720/300/370 mm"
+    ],
+    [
+     "Spindle Taper",
+     "NT-40"
+    ],
+    [
+     "Spindle Speed",
+     "65-3600 rpm"
+    ],
+    [
+     "Quill Movement",
+     "130 mm"
+    ],
+    [
+     "Ram Movement",
+     "400 mm (forward/backward)"
+    ],
+    [
+     "Table Feed Rate",
+     "15-1600 mm/min"
+    ],
+    [
+     "Spindle Inclination Angle",
+     "45¬∞"
+    ],
+    [
+     "Horizontal Ram Rotation",
+     "360¬∞"
+    ],
+    [
+     "Power Supply",
+     "3 KVA"
+    ],
+    [
+     "Machine Weight",
+     "Approx. 2200 Kg"
+    ]
+   ],
+   "imgs": [
+    "2025/10/IMG-20250910-WA0097.jpg",
+    "2025/10/IMG-20250910-WA0098.jpg",
+    "2025/10/IMG-20250910-WA0096.jpg",
+    "2025/10/IMG-20250910-WA0095.jpg",
+    "2025/10/IMG-20250910-WA0094.jpg",
+    "2025/10/IMG-20250910-WA0093.jpg",
+    "2025/10/IMG-20250910-WA0092.jpg",
+    "2025/10/IMG-20250910-WA0091.jpg",
+    "2025/10/IMG-20250910-WA0090.jpg",
+    "2025/10/IMG-20250910-WA0089.jpg"
+   ]
+  },
+  {
+   "name": "ROLEX 25MM PILLER TYPE DRILLING",
+   "slug": "rolex-2003-25mm-piller-type-drilling",
+   "cats": [
+    {
+     "name": "PILLER TYPE DRILLING",
+     "slug": "piller-type-drilling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Drilling Capacity",
+     "25mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.34.09-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.33.52-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.33.53-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.33.53-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.34.08-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.34.08-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.34.08-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.34.09-PM.jpeg"
+   ]
+  },
+  {
+   "name": "KOMATSU 0BS80-3 POWER PRESS",
+   "slug": "komatsu-0bs80-3-power-press",
+   "cats": [
+    {
+     "name": "POWER PRESS",
+     "slug": "power-press"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Capacity",
+     "80 Ton"
+    ],
+    [
+     "Max Strokes",
+     "37-75 spm"
+    ],
+    [
+     "Slide Stroke",
+     "130mm"
+    ],
+    [
+     "Die Height",
+     "350mm"
+    ],
+    [
+     "Slide Adjustment",
+     "80mm"
+    ],
+    [
+     "Slide Dimension (LxW)",
+     "550×450 mm"
+    ],
+    [
+     "Bolster Dimension (LxWxT)",
+     "1000x600x140 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-12-at-6.07.56-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-6.07.55-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-6.07.55-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-6.07.55-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-6.07.54-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-6.07.54-PM-2-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-6.07.54-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-6.07.53-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-6.07.53-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "KOMATSU OBS110AA POWER PRESS",
+   "slug": "komatsu-obs110aa-power-press",
+   "cats": [
+    {
+     "name": "POWER PRESS",
+     "slug": "power-press"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Capacity",
+     "110 Ton"
+    ],
+    [
+     "Dimensions (LxW)",
+     "600×450 mm"
+    ],
+    [
+     "Bolster Dimensions (LxWxT)",
+     "1100x700x100 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.44.42-PM-2-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.44.42-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.44.42-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.44.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.44.41-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.44.41-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.44.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.44.40-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-12-at-5.44.40-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "HAHN & KOLB SATUTTGART, GERMANY BAND SAW",
+   "slug": "hahn-kolb-satuttgart-germany-na-band-saw",
+   "cats": [
+    {
+     "name": "BAND SAW",
+     "slug": "band-saw"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Intended Use",
+     "Small bandsaw for professional use"
+    ],
+    [
+     "Motor",
+     "1800 watt single-phase"
+    ],
+    [
+     "Safety",
+     "Safety switch"
+    ],
+    [
+     "Drivetrain",
+     "Toothed gearing with long-life lubricants"
+    ],
+    [
+     "Control",
+     "Electronic speed controller with torque control"
+    ],
+    [
+     "Features",
+     "Automatic band tensioning, compatible saw blade"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.49-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.50-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.49-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.48-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.48-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.48-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.47-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.47-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.46-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.29.46-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "LUDWIG GACK 4606-8-26693 DIE PUNCH & SHAPING",
+   "slug": "ludwig-gack-1970-4606-8-26693-die-punch-shaping",
+   "cats": [
+    {
+     "name": "DIE PUNCH & SHAPING",
+     "slug": "die-punch-shaping"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "4606-8-26693"
+    ],
+    [
+     "Application",
+     "Punch and die grinding for stamping and punching"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-10-10-at-6.45.18-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-10-10-at-6.45.18-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-10-10-at-6.45.17-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-10-10-at-6.45.17-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-10-10-at-6.45.17-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.12.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.12.41-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.12.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.12.40-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.12.40-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "STEEL BODY LOVELY NO.10 FLY PRESS",
+   "slug": "steel-body-lovely-no-10-fly-press",
+   "cats": [
+    {
+     "name": "FLY PRESS",
+     "slug": "fly-press"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Size",
+     "No. 10"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.31.04-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.31.02-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.31.02-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.31.02-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.31.03-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.31.04-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.31.04-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "NEW BHARAT ENGINEERING WORKS HGN-4 LATHE",
+   "slug": "new-bharat-engineering-works-hgn-4-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Swing Over Bed",
+     "600 mm"
+    ],
+    [
+     "Center Height",
+     "300 mm"
+    ],
+    [
+     "Admit Between Center",
+     "2500 mm"
+    ],
+    [
+     "Swing Over Cross Slide",
+     "450 mm"
+    ],
+    [
+     "Swing in Gap",
+     "700 mm"
+    ],
+    [
+     "Width of Gap",
+     "250 mm"
+    ],
+    [
+     "Width of Bed",
+     "350 mm"
+    ],
+    [
+     "Spindle Nose Bore/Taper",
+     "50mm / MT-4"
+    ],
+    [
+     "Spindle Speed",
+     "1500 rpm"
+    ],
+    [
+     "Motor",
+     "5hp"
+    ],
+    [
+     "Tailstock",
+     "Available"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.44-PM-scaled.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.45-PM-scaled.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.44-PM-2-scaled.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.44-PM-1-scaled.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.43-PM-scaled.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.43-PM-2-scaled.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.43-PM-1-scaled.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.42-PM-scaled.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.42-PM-2-scaled.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-8.03.42-PM-1-scaled.jpeg"
+   ]
+  },
+  {
+   "name": "ROCKWELL DRILLING",
+   "slug": "rockwell-na-drilling",
+   "cats": [
+    {
+     "name": "DRILLING",
+     "slug": "drilling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Manufacturer",
+     "ROCKWELL"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.16.28-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.16.29-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.16.28-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.16.28-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.16.27-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.16.27-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.16.27-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.16.26-PM.jpeg"
+   ]
+  },
+  {
+   "name": "LEBLOND REGAL LATHE LATHE",
+   "slug": "leblond-regal-lathe-na-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Manufacturer",
+     "LEBLOND REGAL"
+    ],
+    [
+     "Type",
+     "Engine Lathe"
+    ],
+    [
+     "Sizes",
+     "13″, 15″, 17″, 24″ swing"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.41-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.42-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.42-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.41-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.41-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.39-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.07.39-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "CUT OFF",
+   "slug": "na-na-cut-off-2",
+   "cats": [
+    {
+     "name": "CUT OFF",
+     "slug": "cut-off"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Type",
+     "Cut Off"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.04.09-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.04.06-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.04.06-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.04.07-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.04.08-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.04.08-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.04.08-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.04.09-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "PRAGA TOOLS LTD, SECUNDRABAD 2782 TOOL & CUTTER",
+   "slug": "praga-tools-ltd-secundrabad-2782-tool-cutter",
+   "cats": [
+    {
+     "name": "TOOL & CUTTER",
+     "slug": "tool-cutter"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Type",
+     "Universal"
+    ],
+    [
+     "Automation",
+     "Automatic"
+    ],
+    [
+     "Grinding Material",
+     "All types of tool and cutter materials"
+    ],
+    [
+     "Country of Origin",
+     "Made in India"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.32.10-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.33.58-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.32.10-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.32.10-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.32.09-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.32.09-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.32.09-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.32.08-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.32.08-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.32.08-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "CUT OFF",
+   "slug": "na-na-cut-off",
+   "cats": [
+    {
+     "name": "CUT OFF",
+     "slug": "cut-off"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Type",
+     "Cut Off"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-8.06.56-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-8.06.57-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-8.06.57-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-8.06.57-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-8.06.56-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-8.06.55-PM.jpeg"
+   ]
+  },
+  {
+   "name": "LAXSONS LK2 BAND SAW",
+   "slug": "laxsons-lk2-band-saw",
+   "cats": [
+    {
+     "name": "BAND SAW",
+     "slug": "band-saw"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Power Consumption",
+     "440V AC, 50Hz"
+    ],
+    [
+     "Blade Diameter",
+     "3760x27x0.9 mm"
+    ],
+    [
+     "Cutting Capacity Square",
+     "275×275 mm"
+    ],
+    [
+     "Voltage",
+     "440V AC, 50Hz"
+    ],
+    [
+     "Weight",
+     "760 Kg"
+    ],
+    [
+     "Country of Origin",
+     "Made in India"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.28.38-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.28.22-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.28.37-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.28.37-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.28.37-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.28.38-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.28.38-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.28.38-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.28.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.35.16-PM.jpeg"
+   ]
+  },
+  {
+   "name": "SBP RADIAL DRILLING",
+   "slug": "sbp-na-radial-drilling",
+   "cats": [
+    {
+     "name": "RADIAL DRILLING",
+     "slug": "radial-drilling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Manufacturer",
+     "SBP"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.02.40-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.02.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.02.39-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.02.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.02.40-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.02.40-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.02.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.02.41-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.03.08-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.03.09-PM.jpeg"
+   ]
+  },
+  {
+   "name": "OVERBECK, GERMANY ZETTO 20 CYLINDRICAL GRINDING",
+   "slug": "overbeck-germany-zetto-20-cylindrical-grinding",
+   "cats": [
+    {
+     "name": "CYLINDRICAL GRINDING",
+     "slug": "cylindrical-grinding"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Type",
+     "Cylindrical Grinding (Internal)"
+    ],
+    [
+     "Bore Diameter",
+     "6-80mm"
+    ],
+    [
+     "Features",
+     "Internal grinding attachment, hydraulic rapid movement, Auto-Cut, Delay, Auto-Compensation"
+    ],
+    [
+     "Micro-Feed",
+     "Adjustments in table and wheelhead travels"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.32-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.37-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.36-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.36-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.35-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.35-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.35-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.34-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.34-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.31.34-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "BFW MILLING",
+   "slug": "bfw-na-milling",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Size",
+     "No. 01"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.18.31-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.18.43-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.18.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.18.34-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.18.30-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.18.30-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.18.01-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.18.01-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.18.01-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "BROWN & SHARP 618 VISUAL GRIND VISUAL GRINDING",
+   "slug": "brown-sharp-618-visual-grind-visual-grinding",
+   "cats": [
+    {
+     "name": "VISUAL GRINDING",
+     "slug": "visual-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Machine Type",
+     "Surface Grinder"
+    ],
+    [
+     "Table Size",
+     "6×18 inches"
+    ],
+    [
+     "Height of Work Ground",
+     "15 inches (with 8″ wheel)"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.44.16-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.44.17-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.44.17-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.44.16-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.44.16-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.44.15-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.44.15-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.44.15-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.43.32-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.43.25-PM.jpeg"
+   ]
+  },
+  {
+   "name": "HMT, BANGALORE RM61 RADIAL DRILLING",
+   "slug": "hmt-bangalore-rm61-radial-drilling",
+   "cats": [
+    {
+     "name": "RADIAL DRILLING",
+     "slug": "radial-drilling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Drilling Capacity",
+     "50mm"
+    ],
+    [
+     "Spindle Travel",
+     "1200mm"
+    ],
+    [
+     "Arm Length",
+     "1200mm"
+    ],
+    [
+     "Spindle Speed",
+     "100-1500 RPM"
+    ],
+    [
+     "Table Size",
+     "800×500 mm"
+    ],
+    [
+     "Weight",
+     "2000 Kg"
+    ],
+    [
+     "Dimensions",
+     "2400x1500x2500 mm"
+    ],
+    [
+     "Material",
+     "Cast Iron and Steel"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.58-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.57-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.57-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.53-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.52-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.51-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.50-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.00.21-PM.jpeg"
+   ]
+  },
+  {
+   "name": "JONS & SHIPMAN PLC, ENGLAND 1430 J-S SURFACE GRINDING",
+   "slug": "jons-shipman-plc-england-1430-j-s-surface-grinding",
+   "cats": [
+    {
+     "name": "SURFACE GRINDING",
+     "slug": "surface-grinding"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Grinding Area",
+     "600×300 mm"
+    ],
+    [
+     "Grinding Capacity",
+     "1000×300 mm"
+    ],
+    [
+     "Grinding Wheel Diameter",
+     "400 mm"
+    ],
+    [
+     "Max Distance (Table to Wheel Head)",
+     "500 mm"
+    ],
+    [
+     "Automation",
+     "Automatic"
+    ],
+    [
+     "Power",
+     "110W"
+    ],
+    [
+     "Voltage",
+     "280V"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.52.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.52.41-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.52.41-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.52.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.52.40-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.52.40-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.52.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.37.08-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.37.08-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.37.06-PM.jpeg"
+   ]
+  },
+  {
+   "name": "IMPORTED CYLINDRICAL GRINDING",
+   "slug": "imported-na-cylindrical-grinding",
+   "cats": [
+    {
+     "name": "CYLINDRICAL GRINDING",
+     "slug": "cylindrical-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Type",
+     "Cylindrical Grinding"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.24.15-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.25.38-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.25.38-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.25.37-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.25.37-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.25.36-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.25.36-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.24.17-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.24.16-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.24.16-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "WM ASQUITH LTD, ENGLAND RM60 RADIAL DRILLING",
+   "slug": "wm-asquith-ltd-england-1926-rm60-radial-drilling",
+   "cats": [
+    {
+     "name": "RADIAL DRILLING",
+     "slug": "radial-drilling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Drilling Capacity",
+     "75 mm"
+    ],
+    [
+     "Spindle Diameter",
+     "83 mm"
+    ],
+    [
+     "Arm Length",
+     "1350 mm"
+    ],
+    [
+     "Spindle Speeds",
+     "22-1000 rpm"
+    ],
+    [
+     "Spindle Taper",
+     "MT 5"
+    ],
+    [
+     "Max Spindle Feed Travel",
+     "360 mm"
+    ],
+    [
+     "Spindle Feed Rates",
+     "0.051-1.016 mm/rev"
+    ],
+    [
+     "Vertical Travel of Arm",
+     "630 mm"
+    ],
+    [
+     "Table Size",
+     "910×760 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.41.30-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.45.55-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.45.54-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.45.54-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.45.54-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.45.53-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.41.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.41.11-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.41.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-3.41.39-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "THREAD MILLING",
+   "slug": "na-na-thread-milling",
+   "cats": [
+    {
+     "name": "THREAD MILLING",
+     "slug": "thread-milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Between Center",
+     "750mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.30-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.09-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.11-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.11-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.11-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.12-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.28-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.29-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.29-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.38.29-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "MYFORD, ENGLAND MG-12 CYLINDRICAL GRINDING",
+   "slug": "myford-england-mg-12-cylindrical-grinding",
+   "cats": [
+    {
+     "name": "CYLINDRICAL GRINDING",
+     "slug": "cylindrical-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Swing",
+     "5 inches"
+    ],
+    [
+     "Center Distance",
+     "12 inches"
+    ],
+    [
+     "Max Job Diameter",
+     "125 mm (5 inches)"
+    ],
+    [
+     "Max Job Length",
+     "305 mm (12 inches)"
+    ],
+    [
+     "Speeds",
+     "100-1000 rpm"
+    ],
+    [
+     "Grinding Wheel Diameter",
+     "305 mm (12 inches)"
+    ],
+    [
+     "Grinding Wheel Width",
+     "38 mm (1.5 inches)"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.28.56-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.28.58-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.28.58-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.28.57-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.28.57-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.28.57-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.28.56-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.28.56-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "CINCINNATI MILLING MACHINE LTD, ENGLAND C50052 TOOL & CUTTER",
+   "slug": "cincinnati-milling-machine-ltd-england-c50052-tool-cutter",
+   "cats": [
+    {
+     "name": "TOOL & CUTTER",
+     "slug": "tool-cutter"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "C50052"
+    ],
+    [
+     "Size",
+     "No. 02"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.45.27-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.51.31-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.45.28-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.45.28-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.45.27-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.45.27-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.45.26-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.45.26-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.45.26-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.45.25-PM.jpeg"
+   ]
+  },
+  {
+   "name": "BALDOR ELECTRIC CO. 0.5 HP BENCH GRINDING",
+   "slug": "baldor-electric-co-0-5-hp-bench-grinding",
+   "cats": [
+    {
+     "name": "BENCH GRINDING",
+     "slug": "bench-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Catalog",
+     "E511"
+    ],
+    [
+     "Spec",
+     "S8724E"
+    ],
+    [
+     "Type",
+     "153M"
+    ],
+    [
+     "Power",
+     "0.5 HP"
+    ],
+    [
+     "Voltage",
+     "220/440V"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.33-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.34-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.33-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.33-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.33-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.32-PM.jpeg"
+   ]
+  },
+  {
+   "name": "POWER MASTER BENCH GRINDING",
+   "slug": "power-master-na-bench-grinding",
+   "cats": [
+    {
+     "name": "BENCH GRINDING",
+     "slug": "bench-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Manufacturer",
+     "POWER MASTER"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.55-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.56-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.56-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.55-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.55-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-15-at-1.53.55-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "KHOSLA COMPRESSOR LTD AIR COMPRESSOR",
+   "slug": "khosla-compressor-ltd-na-air-compressor",
+   "cats": [
+    {
+     "name": "AIR COMPRESSOR",
+     "slug": "air-compressor"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Power",
+     "1 HP"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-8.48.27-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-8.48.28-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-8.48.26-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-8.48.27-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-8.48.27-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-8.48.28-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-8.48.28-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-8.48.28-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "SHEET ROLLING",
+   "slug": "na-na-sheet-rolling-2",
+   "cats": [
+    {
+     "name": "SHEET ROLLING",
+     "slug": "sheet-rolling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Type",
+     "Sheet Rolling"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.52.11-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.52.10-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.52.11-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.52.12-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.52.12-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.52.13-PM.jpeg"
+   ]
+  },
+  {
+   "name": "WOOD CUTTING",
+   "slug": "na-na-wood-cutting",
+   "cats": [
+    {
+     "name": "WOOD CUTTING",
+     "slug": "wood-cutting"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Type",
+     "Wood Cutting"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-2.06.22-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-2.06.24-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-2.06.24-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-2.06.23-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-2.06.23-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-2.06.23-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-2.06.22-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-2.06.22-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-2.06.21-PM.jpeg"
+   ]
+  },
+  {
+   "name": "GEDEE WEILER, GERMANY LZ300 LATHE",
+   "slug": "gedee-weiler-germany-lz300-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Center Height",
+     "150mm"
+    ],
+    [
+     "Distance Between Centers",
+     "800mm"
+    ],
+    [
+     "Drive System",
+     "Pre-selector gearbox or variable-speed drive (58-2400 rpm)"
+    ],
+    [
+     "Construction",
+     "Welded-steel, monobloc cabinet stand"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.14.10-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.14.10-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.14.09-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.14.09-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.14.08-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.14.08-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.14.02-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.14.02-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.14.00-PM.jpeg"
+   ]
+  },
+  {
+   "name": "THE REMIT MANF. CO BOMBAY M-19 DRILLING & TAPPING",
+   "slug": "the-remit-manf-co-bombay-m-19-drilling-tapping",
+   "cats": [
+    {
+     "name": "DRILLING & TAPPING",
+     "slug": "drilling-tapping"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Drilling Capacity",
+     "19 mm in steel"
+    ],
+    [
+     "Tapping Capacity",
+     "12 mm in steel"
+    ],
+    [
+     "Material",
+     "Mild Steel"
+    ],
+    [
+     "Spindle Travel",
+     "125 mm"
+    ],
+    [
+     "Approximate Weight",
+     "110 Kgs"
+    ],
+    [
+     "Column Diameter",
+     "74 mm"
+    ],
+    [
+     "Center of Spindle to Column",
+     "200 mm"
+    ],
+    [
+     "Spindle to Table Size",
+     "650 mm (Min), 900 mm (Max)"
+    ],
+    [
+     "Table Size",
+     "250×250 mm (OD)"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.53.55-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.53.54-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.53.54-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.53.54-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.53.53-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.53.53-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "SHEET ROLLING",
+   "slug": "na-na-sheet-rolling",
+   "cats": [
+    {
+     "name": "SHEET ROLLING",
+     "slug": "sheet-rolling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Type",
+     "Sheet Rolling"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.12.50-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.13.01-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.12.52-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.12.51-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.12.51-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.12.51-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.12.50-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.12.50-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "PRESS GIKEN DECOILER CUM STRAIGHTENER",
+   "slug": "press-giken-na-decoiler-cum-straightener",
+   "cats": [
+    {
+     "name": "DECOILER CUM STRAIGHTENER",
+     "slug": "decoiler-cum-straightener"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Manufacturer",
+     "PRESS GIKEN"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.01.42-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.01.44-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.01.41-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.01.42-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.01.42-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.01.43-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.01.43-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.01.43-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-9.01.44-PM.jpeg"
+   ]
+  },
+  {
+   "name": "KOMATSU MAYPRESS MKN-63-10150 KNUCLE JOINT PRESS",
+   "slug": "komatsu-maypress-1987-mkn-63-10150-knucle-joint-press",
+   "cats": [
+    {
+     "name": "KNUCLE JOINT PRESS",
+     "slug": "knucle-joint-press"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Capacity",
+     "63 tons"
+    ],
+    [
+     "Stroke",
+     "60-65mm"
+    ],
+    [
+     "Shut Height",
+     "Approx. 300mm"
+    ],
+    [
+     "Table Size",
+     "580×360 mm"
+    ],
+    [
+     "Ram Diameter",
+     "Approx. 270mm"
+    ],
+    [
+     "Motor Power",
+     "Approx. 3kW"
+    ],
+    [
+     "Applications",
+     "Cold forming, metal stamping, precision operations"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.19-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.20-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.20-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.20-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.19-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.19-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.18-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.17-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.17-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.19.17-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "MICRO INDUSTRIAL EQUIPMENTS KGD16 AIR COMPRESSOR",
+   "slug": "micro-industrial-equipments-kgd16-air-compressor",
+   "cats": [
+    {
+     "name": "AIR COMPRESSOR",
+     "slug": "air-compressor"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "KGD16"
+    ],
+    [
+     "Power",
+     "2 HP"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-6.19.22-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-6.19.26-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-6.19.20-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-6.19.22-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-6.19.23-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-6.19.24-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-6.19.24-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-6.19.25-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-6.19.26-PM.jpeg"
+   ]
+  },
+  {
+   "name": "PITRODA CYLINDRICAL GRINDING",
+   "slug": "pitroda-1991-na-cylindrical-grinding",
+   "cats": [
+    {
+     "name": "CYLINDRICAL GRINDING",
+     "slug": "cylindrical-grinding"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Grinding Length",
+     "300mm"
+    ],
+    [
+     "Grinding Diameter",
+     "125mm"
+    ],
+    [
+     "Control System",
+     "Manual or semi-automatic"
+    ],
+    [
+     "Drive Type",
+     "Mechanical"
+    ],
+    [
+     "Spindle Speed",
+     "32 m/s"
+    ],
+    [
+     "Work Head Swivel Range",
+     "45 degrees"
+    ],
+    [
+     "Spindle Morse Taper",
+     "MT 3"
+    ],
+    [
+     "Table Swivel",
+     "7¬∞+3¬∞=10¬∞"
+    ],
+    [
+     "Grinding Wheel Size",
+     "300x25x127 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.58-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.58-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.58-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.57-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.57-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.57-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.56-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.56-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.56-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.23.55-PM.jpeg"
+   ]
+  },
+  {
+   "name": "IFCO POWER HACK SAW",
+   "slug": "ifco-na-power-hack-saw",
+   "cats": [
+    {
+     "name": "POWER HACK SAW",
+     "slug": "power-hack-saw"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Manufacturer",
+     "IFCO"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.37-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.39-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.38-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.38-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.38-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.37-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.37-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.36-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.58.34-PM.jpeg"
+   ]
+  },
+  {
+   "name": "HAMAI SANGYO CO LTD, JAPAN MAC 70P CNC MILLING",
+   "slug": "hamai-sangyo-co-ltd-japan-mac-70p-cnc-milling",
+   "cats": [
+    {
+     "name": "CNC MILLING",
+     "slug": "cnc-milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "MAC-70P"
+    ],
+    [
+     "Type",
+     "Vertical Milling Machine"
+    ],
+    [
+     "Control",
+     "CNC (FANUC OM)"
+    ],
+    [
+     "Table Dimensions",
+     "381×1092.2 mm"
+    ],
+    [
+     "Taper",
+     "NT-40"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.30.33-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.23.47-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.23.17-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.22.25-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.22.24-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.22.24-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.22.22-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.22.22-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.22.21-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.22.20-PM.jpeg"
+   ]
+  },
+  {
+   "name": "TUDA SEISAKUSHO CO LTD, JAPAN TFL-1600 LATHE",
+   "slug": "tuda-seisakusho-co-ltd-japan-tfl-1600-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Swing Over Bed",
+     "1200mm"
+    ],
+    [
+     "Swing Over Gap",
+     "1600mm"
+    ],
+    [
+     "Gap Length",
+     "330mm"
+    ],
+    [
+     "Distance Between Centers",
+     "1750mm"
+    ],
+    [
+     "Swing Over Cross Slide",
+     "850mm"
+    ],
+    [
+     "Spindle Speeds",
+     "5-350 RPM"
+    ],
+    [
+     "Motor",
+     "11 kW"
+    ],
+    [
+     "Chuck",
+     "50″ 4-jaw"
+    ],
+    [
+     "Threading",
+     "Inch/metric"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.39-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.39-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.38-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.38-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.38-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.37-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.37-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-1.04.36-PM.jpeg"
+   ]
+  },
+  {
+   "name": "TOOL ROOM ERODE RADIAL DRILLING",
+   "slug": "tool-room-erode-na-radial-drilling",
+   "cats": [
+    {
+     "name": "RADIAL DRILLING",
+     "slug": "radial-drilling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Manufacturer",
+     "TOOL ROOM ERODE"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.07-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.00-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.01-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.01-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.02-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.03-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.06-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.06-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.06-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.21.07-PM.jpeg"
+   ]
+  },
+  {
+   "name": "ALFRED HERBERT, GERMANY MILLING",
+   "slug": "alfred-herbert-germany-size-0-milling",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Size",
+     "0"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.42.02-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.42.03-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.42.03-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.42.03-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.42.02-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.42.00-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.42.00-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-6.42.00-PM-1.jpeg"
+   ]
+  },
+  {
+   "name": "WEILER FHP 750 MILLING",
+   "slug": "weiler-fhp-750-milling",
+   "cats": [
+    {
+     "name": "MILLING",
+     "slug": "milling"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Table Size",
+     "750×200 mm"
+    ],
+    [
+     "X-Travel",
+     "550 mm"
+    ],
+    [
+     "Y-Travel",
+     "180 mm"
+    ],
+    [
+     "Z-Travel",
+     "400 mm"
+    ],
+    [
+     "Feed Range (Horizontal)",
+     "15-750 mm/min"
+    ],
+    [
+     "Feed Range (Vertical)",
+     "5-250 mm/min"
+    ],
+    [
+     "Rapid Traverse",
+     "5.5 m/min"
+    ],
+    [
+     "Arbor Support",
+     "350 mm"
+    ],
+    [
+     "Machine Weight",
+     "Approx. 1.35 tons"
+    ],
+    [
+     "Machine Dimensions",
+     "Approx. 2×1.45×1.9 meters"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.37.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.37.40-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.37.40-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.37.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.37.39-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.37.38-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.37.38-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.37.38-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.37.37-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-4.36.41-PM.jpeg"
+   ]
+  },
+  {
+   "name": "KADIA EC-35 VERTICAL HONNING MACHINE",
+   "slug": "kadia-ec-35-vertical-honning-machine",
+   "cats": [
+    {
+     "name": "VERTICAL HONNING MACHINE",
+     "slug": "vertical-honning-machine"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Size",
+     "1200×550 mm"
+    ],
+    [
+     "Honning Diameter",
+     "10-90 mm"
+    ],
+    [
+     "Stroke Length",
+     "20-350 mm"
+    ],
+    [
+     "Max Stroke Speed",
+     "20 m/min"
+    ],
+    [
+     "Speed",
+     "100-600 RPM"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.18.03-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.25.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.25.28-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.18.04-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.18.04-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.18.03-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.18.03-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.18.02-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.18.02-PM-3.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-12.18.02-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "WALCHAND COOPER GROUP CH-25 SLOTTING MACHINE",
+   "slug": "walchand-cooper-group-1978-ch-25-slotting-machine",
+   "cats": [
+    {
+     "name": "SLOTTING MACHINE",
+     "slug": "slotting-machine"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Stroke",
+     "250 mm"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.36-AM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.36-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.36-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.35-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.35-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.34-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.33-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.33-AM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.32-AM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-11.49.32-AM-1.jpeg"
+   ]
+  },
+  {
+   "name": "ELGI AIR COMPRESSOR",
+   "slug": "elgi-na-air-compressor",
+   "cats": [
+    {
+     "name": "AIR COMPRESSOR",
+     "slug": "air-compressor"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Power",
+     "1 HP"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.54.57-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.54.58-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.54.58-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.54.57-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.54.57-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-1.54.56-PM.jpeg"
+   ]
+  },
+  {
+   "name": "H TYPE PRESS",
+   "slug": "na-na-h-type-press",
+   "cats": [
+    {
+     "name": "H TYPE PRESS",
+     "slug": "h-type-press"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Type",
+     "H type"
+    ],
+    [
+     "Capacity",
+     "60 Ton"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.58.40-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.56.04-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.56.05-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.56.06-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.56.06-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.56.07-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.56.07-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.58.39-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.58.40-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-5.58.41-PM.jpeg"
+   ]
+  },
+  {
+   "name": "METRO MACHINERY MANF. SP8 AIR COMPRESSOR",
+   "slug": "metro-machinery-manf-sp8-air-compressor",
+   "cats": [
+    {
+     "name": "AIR COMPRESSOR",
+     "slug": "air-compressor"
+    }
+   ],
+   "stock": 1,
+   "specs": [
+    [
+     "Model",
+     "SP8"
+    ],
+    [
+     "Power",
+     "1 HP"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.45.22-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.45.22-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.45.22-PM-2.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.45.23-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.45.23-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-14-at-4.45.23-PM-2.jpeg"
+   ]
+  },
+  {
+   "name": "TURSHALLA LATHE",
+   "slug": "turshalla-na-lathe",
+   "cats": [
+    {
+     "name": "LATHE",
+     "slug": "lathe"
+    }
+   ],
+   "stock": 0,
+   "specs": [
+    [
+     "Manufacturer",
+     "TURSHALLA"
+    ]
+   ],
+   "imgs": [
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.10.31-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.10.30-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.10.30-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.10.27-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.10.27-PM-1.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.09.57-PM.jpeg",
+    "2025/10/WhatsApp-Image-2025-07-13-at-5.08.50-PM.jpeg"
+   ]
+  }
+ ]
+}
