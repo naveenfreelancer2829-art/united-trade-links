@@ -2,7 +2,7 @@
  "_readme": "United Trade Links machine catalogue. Edit this file to add, change or remove machines. 'imageBase' is the folder the photos live in. 'thumbSuffix' is how the small preview of each photo is named.",
  "imageBase": "/wp-content/uploads/",
  "thumbSuffix": "-300x300",
- "updated": "2026-11-17",
+ "updated": "2026-11-15",
  "categories": [
   {
    "name": "AIR COMPRESSOR",
@@ -207,11 +207,11 @@
    "slug": "okamoto-surface-grinding-machine-fb125-x-250",
    "cats": [
     {
-     "slug": "surface-grinding",
-     "name": "SURFACE GRINDING"
+     "name": "SURFACE GRINDING",
+     "slug": "surface-grinding"
     }
    ],
-   "stock": 0,
+   "stock": 1,
    "specs": [
     [
      "Model",

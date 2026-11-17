@@ -45,9 +45,23 @@ label{display:block;font-size:12px;font-weight:600;color:var(--navy);margin-bott
 .login ol{padding-left:18px;color:var(--mute);font-size:12.5px;line-height:1.7}
 .hide{display:none!important}
 @media(max-width:760px){.stats{grid-template-columns:1fr 1fr}.grid{grid-template-columns:1fr}.hm{display:none}table{font-size:12.5px}td,th{padding:8px}}
+.feat{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:18px}
+.fh{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;margin-bottom:12px}.fh b{display:block;font-size:15px;color:var(--navy-d)}.fh span{font-size:12px;color:var(--mute)}
+.slots{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.slot{border:1px solid var(--line);border-radius:12px;padding:8px;position:relative;display:flex;flex-direction:column;gap:6px;background:#FAFBFC}
+.slot img{width:100%;height:90px;object-fit:cover;border-radius:8px;background:#e9edf1}.slot .no{position:absolute;top:12px;left:12px;background:var(--gold);color:var(--navy-d);font-weight:700;font-size:11px;width:22px;height:22px;border-radius:50%;display:grid;place-items:center;z-index:1}
+.slot .sn{font-size:12px;font-weight:600;line-height:1.35}.slot .sn small{display:block;font-weight:500;color:var(--mute);font-size:10.5px;margin-top:2px}
+.slot.empty{border-style:dashed;justify-content:center;min-height:150px;text-align:center;color:var(--mute)}.slot.empty .sn{font-weight:500;padding-top:24px}
+.sa{display:flex;gap:4px}.sa button{flex:1;border:1px solid var(--line);background:#fff;border-radius:6px;cursor:pointer;padding:3px}
+.fsrch{position:relative;margin-top:12px}.fsrch input{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px}
+#fres{position:absolute;left:0;right:0;top:100%;background:#fff;border:1px solid var(--line);border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,.12);z-index:10;overflow:hidden}#fres:empty{display:none}
+#fres button{display:flex;align-items:center;gap:10px;width:100%;border:0;background:#fff;padding:8px 10px;text-align:left;cursor:pointer;font-size:13px}#fres button:hover{background:var(--bg)}#fres img{width:40px;height:30px;object-fit:cover;border-radius:4px;background:#eee}
+.pulse{box-shadow:0 0 0 3px rgba(201,169,106,.45)}
+@media(max-width:760px){.slots{grid-template-columns:1fr 1fr}}
+.ytp{display:inline-flex;align-items:center;gap:5px;background:#FF0000;color:#fff;border:0;border-radius:6px;padding:5px 9px;font:600 11.5px Montserrat,sans-serif;text-decoration:none;cursor:pointer}.ytp.off{background:#F1F2F4;color:#6B7280}.ytp.off:hover{background:#FFE5E5;color:#FF0000}
 </style></head><body>
 
-<div class="top"><div><small>UNITED TRADE LINKS</small><h1>Admin dashboard</h1></div><span class="sp"></span>
+<div class="top"><img src="../logo-mark-white.png" alt="" style="width:40px;height:40px"><div><small>UNITED TRADE LINKS</small><h1>Admin dashboard</h1></div><span class="sp"></span>
 <a id="viewsite" href="../" target="_blank">View website ↗</a><button class="btn line sm hide" id="logout">Log out</button></div>
 
 <div class="login" id="login">
@@ -74,13 +88,20 @@ label{display:block;font-size:12px;font-weight:600;color:var(--navy);margin-bott
   <div class="stat"><b id="sStock">0</b><span>IN STOCK</span></div>
   <div class="stat"><b id="sVid">0</b><span>WITH VIDEO</span></div>
  </div>
+ <div class="feat">
+  <div class="fh"><div><b>Latest arrivals on homepage</b><span>These 4 machines show first under "Latest arrivals". Empty slots fill with the newest machines.</span></div>
+   <button class="btn gold sm" id="fsave">Save &amp; publish</button></div>
+  <div class="slots" id="slots"></div>
+  <div class="fsrch"><input id="fq" placeholder="Search a machine to add to latest arrivals…" autocomplete="off"><div id="fres"></div></div>
+ </div>
  <div class="bar">
   <input id="q" placeholder="Search machines...">
   <select id="fcat"><option value="">All categories</option></select>
   <select id="fst"><option value="">All</option><option value="live">Live</option><option value="hidden">Hidden</option><option value="sold">Sold</option></select>
+  <select id="fsort"><option value="upd">Recently updated first</option><option value="list">Website order</option><option value="az">Name A–Z</option></select>
   <button class="btn gold" id="add">+ Add machine</button>
  </div>
- <table><thead><tr><th>Photo</th><th>Machine</th><th class="hm">Video</th><th>Live</th><th class="hm">Stock</th><th>Actions</th></tr></thead><tbody id="rows"></tbody></table>
+ <table><thead><tr><th>Photo</th><th>Machine</th><th class="hm">Video</th><th>Live</th><th class="hm">Stock</th><th class="hm">Last updated</th><th>Actions</th></tr></thead><tbody id="rows"></tbody></table>
 </div>
 
 <div class="modal" id="modal"><div class="box">
@@ -94,7 +115,7 @@ label{display:block;font-size:12px;font-weight:600;color:var(--navy);margin-bott
     <span style="display:flex;gap:8px;align-items:center"><label class="sw" style="margin:0"><input type="checkbox" id="fLive" checked><i></i></label>Live on website</span>
     <span style="display:flex;gap:8px;align-items:center"><label class="sw" style="margin:0"><input type="checkbox" id="fStock" checked><i></i></label>In stock</span>
    </div></div>
-  <div class="f"><label>YouTube video link</label><input id="fVideo" placeholder="https://youtu.be/..."><div class="hint">Empty = "Video not available" shows on the page.</div></div>
+  <div class="f"><label><span style="color:#FF0000">▶</span> YouTube video link</label><input id="fVideo" placeholder="https://youtu.be/..."><div class="hint">Empty = "Video not available" shows on the page.</div></div>
   <div class="f full"><label>Specifications</label><textarea id="fSpecs" placeholder="Model: ZMP-16&#10;Capacity: 25 mm&#10;Motor: 1 HP"></textarea><div class="hint">One per line, as <b>Name: Value</b>.</div></div>
   <div class="f full"><label>Description / content</label><textarea id="fDesc" placeholder="Condition, accessories, working details..."></textarea></div>
   <div class="f full"><label>Photos</label><div class="photos" id="fPhotos"></div><input type="file" id="fFile" accept="image/*" multiple class="hide"><div class="hint">First photo is the cover. New photos are resized and uploaded when you save.</div></div>
@@ -151,7 +172,7 @@ function fillCats(){var c=cats();
  $("#fcat").innerHTML='<option value="">All categories</option>'+c.map(function(x){return'<option value="'+x.slug+'">'+esc(x.name)+'</option>'}).join("");
  $("#fCat").innerHTML=c.map(function(x){return'<option value="'+x.slug+'">'+esc(x.name)+'</option>'}).join("")+'<option value="__new">+ New category…</option>'}
 function draw(){
- var q=$("#q").value.toLowerCase(),fc=$("#fcat").value,fs=$("#fst").value,M=DATA.machines;
+ drawFeat();var q=$("#q").value.toLowerCase(),fc=$("#fcat").value,fs=$("#fst").value,M=DATA.machines;
  $("#sTotal").textContent=M.length;
  $("#sLive").textContent=M.filter(function(m){return m.live!==false}).length;
  $("#sStock").textContent=M.filter(function(m){return m.stock!==0&&m.stock!==false}).length;
@@ -160,24 +181,26 @@ function draw(){
   if(q&&m.name.toLowerCase().indexOf(q)<0)return false;
   if(fc&&!(m.cats||[]).some(function(c){return c.slug===fc}))return false;
   if(fs==="live"&&m.live===false)return false;if(fs==="hidden"&&m.live!==false)return false;
-  if(fs==="sold"&&!(m.stock===0||m.stock===false))return false;return true}).map(function(o){var m=o.m,i=o.i;
+  if(fs==="sold"&&!(m.stock===0||m.stock===false))return false;return true}).sort(function(a,b){var s=$("#fsort").value;if(s==="upd")return String(b.m.updated||"").localeCompare(String(a.m.updated||""))||a.i-b.i;if(s==="az")return a.m.name.localeCompare(b.m.name);return a.i-b.i}).map(function(o){var m=o.m,i=o.i;
   var im=(m.imgs||[])[0];im=typeof im==="string"?im:(im&&im[0]);
   var sold=m.stock===0||m.stock===false;
   return'<tr><td>'+(im?'<img src="'+esc(imgURL(im))+'" loading="lazy" alt="">':'<img alt="">')+'</td>'+
   '<td><div class="nm">'+esc(m.name)+'</div><div class="cat">'+esc((m.cats||[]).map(function(c){return c.name}).join(", "))+' · '+(m.imgs||[]).length+' photos</div></td>'+
-  '<td class="hm">'+(m.video?'<a href="'+esc(m.video)+'" target="_blank">▶ Yes</a>':'<span class="pill offp">None</span>')+'</td>'+
+  '<td class="hm">'+(m.video?'<a class="ytp" href="'+esc(m.video)+'" target="_blank" title="'+esc(m.video)+'"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .5 12a31 31 0 0 0 .5 4.8 3 3 0 0 0 2.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8zM9.8 15.1V8.9l5.7 3.1z"/></svg>Watch</a>':'<button class="ytp off" data-edit="'+i+'" title="Add a YouTube link"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .5 12a31 31 0 0 0 .5 4.8 3 3 0 0 0 2.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8zM9.8 15.1V8.9l5.7 3.1z"/></svg>Add video</button>')+'</td>'+
   '<td><label class="sw"><input type="checkbox" data-live="'+i+'"'+(m.live!==false?" checked":"")+'><i></i></label></td>'+
   '<td class="hm"><span class="pill '+(sold?"sold":"on")+'">'+(sold?"Sold":"In stock")+'</span></td>'+
-  '<td><div class="acts"><button class="btn line sm" data-edit="'+i+'">Edit</button><button class="btn red sm" data-del="'+i+'">Delete</button></div></td></tr>'}).join("")||
-  '<tr><td colspan="6" style="text-align:center;color:var(--mute);padding:30px">No machines found.</td></tr>';
+  '<td class="hm" style="font-size:12px;color:var(--mute)">'+(m.updated?fmt(m.updated):"—")+'</td>'+
+  '<td><div class="acts"><button class="btn line sm" data-star="'+esc(m.slug)+'" title="Show in latest arrivals">'+(LT().indexOf(m.slug)>-1?"★":"☆")+'</button><button class="btn line sm" data-edit="'+i+'">Edit</button><button class="btn red sm" data-del="'+i+'">Delete</button></div></td></tr>'}).join("")||
+  '<tr><td colspan="7" style="text-align:center;color:var(--mute);padding:30px">No machines found.</td></tr>';
 }
-["q","fcat","fst"].forEach(function(id){$("#"+id).addEventListener("input",draw)});
+["q","fcat","fst","fsort"].forEach(function(id){$("#"+id).addEventListener("input",draw)});
 $("#rows").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;
+ if(b.dataset.star){var L=LT(),k=L.indexOf(b.dataset.star);if(k>-1)L.splice(k,1);else{if(L.length>=4)return toast("Latest arrivals has 4 machines already — remove one first",1);L.push(b.dataset.star)}DATA.latest=L;dirty();draw();return}
  if(b.dataset.edit)openEdit(+b.dataset.edit);
  if(b.dataset.del){var m=DATA.machines[+b.dataset.del];
   if(confirm('Delete "'+m.name+'" from the website?\nThis removes it from the list.')){DATA.machines.splice(+b.dataset.del,1);publish("Delete "+m.name)}}});
 $("#rows").addEventListener("change",function(e){var c=e.target;if(c.dataset.live===undefined)return;var m=DATA.machines[+c.dataset.live];
- if(c.checked)delete m.live;else m.live=false;publish((c.checked?"Show ":"Hide ")+m.name)});
+ if(c.checked)delete m.live;else m.live=false;m.updated=new Date().toISOString();publish((c.checked?"Show ":"Hide ")+m.name)});
 
 $("#add").onclick=function(){openEdit(-1)};
 $("#cancel").onclick=function(){$("#modal").classList.remove("show")};
@@ -219,12 +242,12 @@ $("#save").onclick=function(){
    .then(function(){imgs.push(SITE+path)})})});
  seq.then(function(){
   var m=old||{};m.name=name;m.slug=slug;m.cats=cat?[cat]:[];m.specs=specs;m.imgs=imgs;
-  m.stock=$("#fStock").checked?1:0;
+  m.stock=$("#fStock").checked?1:0;m.updated=new Date().toISOString();
   if($("#fLive").checked)delete m.live;else m.live=false;
   var v=$("#fVideo").value.trim();if(v)m.video=v;else delete m.video;
   var d=$("#fDesc").value.trim();if(d)m.desc=d;else delete m.desc;
   var br=$("#fBrand").value.trim();if(br)m.brand=br;else delete m.brand;
-  if(!old)DATA.machines.unshift(m);
+  if(!old){DATA.machines.unshift(m);var L0=LT();if(L0.indexOf(slug)<0){L0.unshift(slug);DATA.latest=L0.slice(0,4)}}
   btn.textContent="Publishing…";
   return publish((old?"Update ":"Add ")+name)}).then(function(ok){if(ok)$("#modal").classList.remove("show")})
  .catch(function(e){toast("Photo upload failed: "+e.message,1)}).finally(function(){btn.disabled=false;btn.textContent="Save & publish"});
@@ -239,6 +262,32 @@ function publish(msg){
  .then(function(j){SHA=j.content.sha;draw();fillCats();toast("Saved ✓ — live on the website in about 1 minute");return true})
  .catch(function(e){toast("Save failed: "+e.message+(/sha|match/i.test(e.message)?" — reload the page and try again":""),1);return false});
 }
+
+function LT(){DATA.latest=(DATA.latest||[]).filter(function(s){return DATA.machines.some(function(m){return m.slug===s})});return DATA.latest}
+function bySlug(s){for(var i=0;i<DATA.machines.length;i++)if(DATA.machines[i].slug===s)return DATA.machines[i]}
+function fmt(d){var t=new Date(d);if(isNaN(t))return"—";return t.toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric"})+" "+t.toLocaleTimeString("en-IN",{hour:"2-digit",minute:"2-digit"})}
+function cover(m){var im=(m.imgs||[])[0];im=typeof im==="string"?im:(im&&im[0]);return im?imgURL(im):""}
+function dirty(){$("#fsave").textContent="Save & publish •";$("#fsave").classList.add("pulse")}
+function drawFeat(){var L=LT(),h="";
+ for(var k=0;k<4;k++){var m=L[k]&&bySlug(L[k]);
+  h+=m?'<div class="slot"><span class="no">'+(k+1)+'</span><img src="'+esc(cover(m))+'" alt=""><div class="sn">'+esc(m.name)+'<small>'+(m.updated?"Updated "+fmt(m.updated):"")+'</small></div>'+
+   '<div class="sa"><button data-up="'+k+'" title="Move up">↑</button><button data-dn="'+k+'" title="Move down">↓</button><button data-rx="'+k+'" title="Remove">×</button></div></div>'
+   :'<div class="slot empty"><span class="no">'+(k+1)+'</span><div class="sn">Empty — newest machine shows here</div></div>'}
+ $("#slots").innerHTML=h}
+$("#slots").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;var L=LT();
+ if(b.dataset.rx!==undefined)L.splice(+b.dataset.rx,1);
+ if(b.dataset.up!==undefined){var k=+b.dataset.up;if(k>0){var t=L[k];L[k]=L[k-1];L[k-1]=t}}
+ if(b.dataset.dn!==undefined){var j=+b.dataset.dn;if(j<L.length-1){var u=L[j];L[j]=L[j+1];L[j+1]=u}}
+ DATA.latest=L;dirty();draw()});
+$("#fq").addEventListener("input",function(){var q=this.value.toLowerCase().trim();
+ if(!q){$("#fres").innerHTML="";return}
+ $("#fres").innerHTML=DATA.machines.filter(function(m){return m.live!==false&&m.name.toLowerCase().indexOf(q)>-1}).slice(0,8).map(function(m){
+  return'<button data-pick="'+esc(m.slug)+'"><img src="'+esc(cover(m))+'" alt="">'+esc(m.name)+'</button>'}).join("")||'<div style="padding:10px;color:var(--mute)">No match</div>'});
+$("#fres").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;var L=LT();
+ if(L.indexOf(b.dataset.pick)>-1)return toast("Already in latest arrivals");
+ if(L.length>=4)return toast("4 machines already — remove one first",1);
+ L.push(b.dataset.pick);DATA.latest=L;$("#fq").value="";$("#fres").innerHTML="";dirty();draw()});
+$("#fsave").onclick=function(){publish("Update latest arrivals").then(function(ok){if(ok){$("#fsave").textContent="Save & publish";$("#fsave").classList.remove("pulse")}})};
 if(CFG.tok)start();
 </script>
 </body></html>
