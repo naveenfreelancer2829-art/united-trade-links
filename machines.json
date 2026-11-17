@@ -2,7 +2,7 @@
  "_readme": "United Trade Links machine catalogue. Edit this file to add, change or remove machines. 'imageBase' is the folder the photos live in. 'thumbSuffix' is how the small preview of each photo is named.",
  "imageBase": "/wp-content/uploads/",
  "thumbSuffix": "-300x300",
- "updated": "2026-11-15",
+ "updated": "2026-11-17",
  "categories": [
   {
    "name": "AIR COMPRESSOR",
@@ -4749,5 +4749,9 @@
     "2025/10/WhatsApp-Image-2025-07-13-at-5.08.50-PM.jpeg"
    ]
   }
+ ],
+ "latest": [
+  "khosla-compressor-ltd-na-air-compressor",
+  "new-bharat-engineering-works-hgn-4-lathe"
  ]
 }
