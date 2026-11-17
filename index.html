@@ -714,6 +714,9 @@ text-transform:uppercase;color:var(--navy);text-decoration:none;padding:6px 0}
 font:500 12px/1 var(--sans);letter-spacing:.06em;color:var(--mute)}
 .morebar .b{min-width:240px;justify-content:center}
 .morebar .b em{font-style:normal;font-weight:500;letter-spacing:.06em;opacity:.6;margin-left:4px}
+.ytb{background:#FF0000!important;color:#fff!important;border-color:#FF0000!important}.ytb.off{background:#e5e7eb!important;color:#6b7280!important;border-color:#e5e7eb!important;cursor:not-allowed}
+.ytc{display:flex;justify-content:center;margin:44px 0 10px}.ytc a,.ytc .off{display:flex;flex-direction:column;align-items:center;gap:10px;text-decoration:none;color:var(--navy-d)}.ytc b{font:600 13px Montserrat,sans-serif;letter-spacing:.5px}
+.yti{width:76px;height:54px;border-radius:16px;background:#FF0000;display:grid;place-items:center;box-shadow:0 10px 24px rgba(255,0,0,.3);transition:transform .2s}.yti svg{width:34px;height:34px}.ytc a:hover .yti{transform:scale(1.08)}.ytc .off .yti{background:#c4c8cf;box-shadow:none}.ytc .off{color:var(--mute);cursor:not-allowed}
 </style>
 </head>
 <body>
@@ -721,9 +724,9 @@ font:500 12px/1 var(--sans);letter-spacing:.06em;color:var(--mute)}
 <div class="prog" id="prog"></div>
 
 <div class="ubar"><div class="wrap">
- <a href="tel:+919448369902"><svg aria-hidden="true"><use href="#i-phone"/></svg>+91 94483 69902</a>
+ <a href="tel:+917411215990"><svg aria-hidden="true"><use href="#i-phone"/></svg>+91 74112 15990</a>
  <a href="mailto:unitedtradelinks6@gmail.com"><svg aria-hidden="true"><use href="#i-mail"/></svg>unitedtradelinks6@gmail.com</a>
- <span class="sep">Vittasandra · Bengaluru 560076</span>
+ <span class="sep">Bengaluru 560076</span>
 </div></div>
 <header>
  <div class="wrap hd">
@@ -739,6 +742,8 @@ font:500 12px/1 var(--sans);letter-spacing:.06em;color:var(--mute)}
 
 <main id="main"></main>
 
+<div class="dcwrap"><a class="dcbtn" href="digital-card.html"><span class="dcic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="11" r="2"/><path d="M6 16c.6-1.6 1.7-2.3 3-2.3s2.4.7 3 2.3M14 10h4M14 13h3"/></svg></span><span><b>Digital card</b><small>Machines · Website · WhatsApp · Location</small></span></a></div>
+<style>.dcwrap{background:var(--navy-d);padding:26px 16px;display:flex;justify-content:center}.dcbtn{display:flex;align-items:center;gap:16px;background:#fff;border-radius:18px;padding:14px 24px 14px 14px;text-decoration:none;box-shadow:0 10px 30px rgba(0,0,0,.25);transition:transform .2s}.dcbtn:hover{transform:translateY(-2px)}.dcic{width:48px;height:48px;border-radius:12px;background:var(--navy);color:var(--gold);display:grid;place-items:center;flex:none}.dcbtn b{display:block;font:600 18px Montserrat,sans-serif;color:var(--navy-d)}.dcbtn small{font:500 12.5px Montserrat,sans-serif;color:var(--gold-d);letter-spacing:.3px}</style>
 <footer>
  <div class="wrap">
   <div class="fgrid">
@@ -768,10 +773,10 @@ font:500 12px/1 var(--sans);letter-spacing:.06em;color:var(--mute)}
 
 <nav class="mbar" aria-label="Quick actions">
  <a href="tel:+919448369902"><svg aria-hidden="true"><use href="#i-phone"/></svg>Call</a>
- <a class="wa" id="mwa" href="https://wa.me/919448369902" target="_blank" rel="noopener"><svg aria-hidden="true"><use href="#i-wa"/></svg>WhatsApp</a>
+ <a class="wa" id="mwa" href="https://wa.me/917411215990" target="_blank" rel="noopener"><svg aria-hidden="true"><use href="#i-wa"/></svg>WhatsApp</a>
  <a class="en" href="/enquiry/" data-r="1"><svg aria-hidden="true"><use href="#i-mail"/></svg>Enquire</a>
 </nav>
-<a class="wafab" href="https://wa.me/919448369902" target="_blank" rel="noopener" aria-label="WhatsApp"><svg aria-hidden="true"><use href="#i-wa"/></svg><span>WhatsApp</span></a>
+<a class="wafab" href="https://wa.me/917411215990" target="_blank" rel="noopener" aria-label="WhatsApp"><svg aria-hidden="true"><use href="#i-wa"/></svg><span>WhatsApp</span></a>
 
 <div class="lb" id="lb" role="dialog" aria-label="Photo viewer">
  <img id="lbimg" alt="">
@@ -814,7 +819,7 @@ var DATA = HOST ? ["/machines.json"] : ["machines.json","/machines.json"];
 var IMGHOST = HOST ? "" : "https://naveenwork.online";
 var UP = IMGHOST + "/wp-content/uploads/2025/10/";
 var POST_URL = HOST ? "/enquiry.php" : "enquiry.php";
-var WA="919448369902", TEL1="+919448369902", TEL2="+917411215990";
+var WA="917411215990", YT="https://www.youtube.com/@UnitedTrade_Links", TEL1="+919448369902", TEL2="+917411215990";
 var MAIL="unitedtradelinks6@gmail.com";
 var ADDR="No 582, 6th Cross, Vittasandra, Lakshmi Layout, Beside Begur Lake, Bengaluru, Karnataka 560076";
 var MAPQ="United+Trade+Links+Vittasandra+Begur+Bengaluru+560076";
@@ -910,14 +915,15 @@ function useLocal(j){
   CATS=(j.categories||[]).slice();
   P=(j.machines||[]).map(function(m,i){
     var p={i:i,slug:m.slug,name:m.name,brand:m.brand||brandOf(m.name),
-      cats:m.cats||[],specs:m.specs||[],stock:m.stock!==0&&m.stock!==false,
+      cats:m.cats||[],specs:m.specs||[],stock:m.stock!==0&&m.stock!==false,video:m.video||"",desc:m.desc||"",live:m.live!==false,
       imgs:(m.imgs||[]).map(function(a){
         var path=(typeof a==="string")?a:a[0];
         return {src:full(path),thumbnail:(typeof a==="string")?small(path):full(a[1]||a[0])}}),
       keys:{}};
     p.specs.forEach(function(r){p.keys[String(r[0]).toLowerCase()]=r.slice(1).join(" ")});
     p.hay=hay(p);return p;
-  });
+  }).filter(function(p){return p.live});
+  P.forEach(function(p,i){p.i=i});
   var cnt={};P.forEach(function(p){cnt[p.brand]=(cnt[p.brand]||0)+1});
   BRANDS=Object.keys(cnt).map(function(b){return {name:b,count:cnt[b]}}).sort(function(a,b){
     if((a.name==="Other makers")!==(b.name==="Other makers"))return a.name==="Other makers"?1:-1;
@@ -1257,6 +1263,7 @@ V.machine=function(q,slug){
      ? '<dl class="spec">'+p.specs.map(function(r){
          return '<div><dt>'+esc(r[0])+'</dt><dd>'+esc(r.slice(1).join(" "))+'</dd></div>'}).join("")+'</dl>'
      : '<p class="hint">Full specifications on request.</p>')+
+   (p.desc?'<h2 style="font-size:22px;margin:36px 0 12px">About this machine</h2><p style="line-height:1.8;white-space:pre-line">'+esc(p.desc)+'</p>':"")+
    '<p class="hint" style="margin-top:20px">Measured from the machine itself. Accessories and present condition are confirmed when you inspect it or when we send a video.</p>'+
    '</div><div><div class="ask">'+
     '<span class="tag'+(p.stock?"":" out")+'" style="margin-bottom:14px">'+(p.stock?"In stock":"Sold")+'</span>'+
@@ -1266,10 +1273,17 @@ V.machine=function(q,slug){
     '<a class="b" href="'+L("enquiry/"+p.slug)+'" data-r="1">Enquiry form</a>'+
     '<a class="b line" href="tel:'+TEL1+'"><svg aria-hidden="true"><use href="#i-phone"/></svg>Call</a>'+
     cmpBtn(p)+
+    (p.video?'<a class="b ytb" href="'+esc(p.video)+'" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .5 12a31 31 0 0 0 .5 4.8 3 3 0 0 0 2.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8zM9.8 15.1V8.9l5.7 3.1z"/></svg>Watch video review</a>'
+            :'<span class="b ytb off" aria-disabled="true">Video review not available</span>')+
+    '<a class="b line" href="'+YT+'" target="_blank" rel="noopener">Our YouTube channel</a>'+
     '<div class="note">'+
      '<div><svg aria-hidden="true"><use href="#i-eye"/></svg><span>Inspect it running at our Bengaluru facility.</span></div>'+
      '<div><svg aria-hidden="true"><use href="#i-truck"/></svg><span>Transport and installation guidance arranged.</span></div>'+
-    '</div></div></div></div></div></section>';
+    '</div></div></div></div>'+
+   '<div class="ytc">'+(p.video
+     ?'<a href="'+esc(p.video)+'" target="_blank" rel="noopener" aria-label="Watch this machine on YouTube"><span class="yti"><svg viewBox="0 0 24 24" fill="#fff"><path d="M9.8 15.1V8.9l5.7 3.1z"/></svg></span><b>Watch on YouTube</b></a>'
+     :'<span class="off"><span class="yti"><svg viewBox="0 0 24 24" fill="#fff"><path d="M9.8 15.1V8.9l5.7 3.1z"/></svg></span><b>Video not available</b></span>')+
+   '</div></div></section>';
   if(rel.length){
     h+='<section class="sand"><div class="wrap"><div class="shead">'+
      '<div><span class="eye">Similar</span><h2>More '+esc(c.name.toLowerCase())+'</h2></div>'+
