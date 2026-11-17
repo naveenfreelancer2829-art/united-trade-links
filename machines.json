@@ -2,7 +2,7 @@
  "_readme": "United Trade Links machine catalogue. Edit this file to add, change or remove machines. 'imageBase' is the folder the photos live in. 'thumbSuffix' is how the small preview of each photo is named.",
  "imageBase": "/wp-content/uploads/",
  "thumbSuffix": "-300x300",
- "updated": "2026-11-15",
+ "updated": "2026-11-17",
  "categories": [
   {
    "name": "AIR COMPRESSOR",
@@ -57,7 +57,7 @@
   {
    "name": "DRILLING & TAPPING",
    "slug": "drilling-tapping",
-   "count": 2
+   "count": 1
   },
   {
    "name": "FLY PRESS",
@@ -200,7 +200,8 @@
     "2025/12/WhatsApp-Image-2025-07-14-at-5.58.46-PM-1.jpeg",
     "2025/12/WhatsApp-Image-2025-07-14-at-5.58.46-PM.jpeg",
     "2025/12/WhatsApp-Image-2025-07-14-at-5.58.47-PM.jpeg"
-   ]
+   ],
+   "live": false
   },
   {
    "name": "OKAMOTO SURFACE GRINDING MACHINE FB125 X 250",
