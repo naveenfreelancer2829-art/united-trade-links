@@ -207,11 +207,11 @@
    "slug": "okamoto-surface-grinding-machine-fb125-x-250",
    "cats": [
     {
-     "name": "SURFACE GRINDING",
-     "slug": "surface-grinding"
+     "slug": "surface-grinding",
+     "name": "SURFACE GRINDING"
     }
    ],
-   "stock": 1,
+   "stock": 0,
    "specs": [
     [
      "Model",
