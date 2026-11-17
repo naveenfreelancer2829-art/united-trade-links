@@ -7,7 +7,7 @@
   {
    "name": "AIR COMPRESSOR",
    "slug": "air-compressor",
-   "count": 4
+   "count": 5
   },
   {
    "name": "BAND SAW",
@@ -171,6 +171,22 @@
   }
  ],
  "machines": [
+  {
+   "name": "Naveen",
+   "slug": "naveen",
+   "cats": [
+    {
+     "slug": "air-compressor",
+     "name": "AIR COMPRESSOR"
+    }
+   ],
+   "specs": [],
+   "imgs": [
+    "https://naveenfreelancer2829-art.github.io/united-trade-links/uploads/naveen-1794897029555-0.jpg"
+   ],
+   "stock": 1,
+   "brand": "asFasef"
+  },
   {
    "name": "DRILLING & TAPPING MACHINE, ZMP-16",
    "slug": "drilling-tapping-machine-zmp-16",
